@@ -14,7 +14,10 @@
 <img height="235cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakiliitju&theme=buefy&layout=compact"  />
 
 ## My Website 
-
+<a href="https://sites.google.com/view/md-hossain">
+   <img align="left" alt="Md. Shakil Hossain | Website" width="26px" src="https://github.com/shakiliitju/shakiliitju/blob/main/world-wide-web.svg" />
+  </a>
+<br>
 
 ## Social Media
 
@@ -22,7 +25,7 @@
    <img align="left" alt="Md. Shakil Hossain | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
   </a>
   <a href="https://www.facebook.com/shakiliitju">
-   <img align="left" alt="Md. Shakil Hossain | Facebook" width="24px" src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-facebook-48.png" />
+   <img align="left" alt="Md. Shakil Hossain | Facebook" width="26px" src="https://github.com/shakiliitju/shakiliitju/blob/main/facebook.svg" />
 </a>
   <a href="https://twitter.com/shakiliitju">
     <img align="left" alt="Md. Shakil Hossain | Twitter" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" />
