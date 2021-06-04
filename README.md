@@ -2,14 +2,15 @@
 I am Md. Shakil Hossain✨
 I am Currently a 2nd-year Student at the Institute of Information and Communication Technology in Jahangirnagar University. 
 
-## View Stat
-
+## Profile Views
+![Profile views](https://gpvc.arturio.dev/shakiliitju)
 ## GitHub Stats
 
-<img src="https://github-redme-stats.vercel.app/api?
-         username=shakiliitju&show-icons=true&theme=radica&file_color=8f2DE2&&text_color=fff&icon_color=DE2DE2">
+![github stats](https://github-readme-stats.vercel.app/api?username=shakiliitju&show_icons=true&theme=radica)
           
 ## Most Used Language
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakiliitju&theme=buefy&layout=compact" />
 
 ## My Website 
 
