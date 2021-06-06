@@ -1,6 +1,6 @@
 ## Assalamu-Alaikum
 ### I am Md. Shakil Hossain✨
-- 🎓 I am Currently a 2nd-year Student at the <a href="https://www.juniv.edu/institute/iit" target="_blank">Institute of Information Technology</a>  in <a href="https://www.juniv.edu/" target="_blank">Jahangirnagar University.</a> 
+- 🎓 I am Currently a 2nd-year Student at <a href="https://www.juniv.edu/institute/iit" target="_blank">Institute of Information Technology</a>  in <a href="https://www.juniv.edu/" target="_blank">Jahangirnagar University.</a> 
 
 ## Profile Views
 ![Profile views](https://gpvc.arturio.dev/shakiliitju)
