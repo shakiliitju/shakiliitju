@@ -9,7 +9,7 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=shakiliitju&show_icons=true&theme=radica)
           
-## Most Used Language
+## Most Used Languages
 
 <img height="235cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakiliitju&theme=buefy&layout=compact"  />
 
