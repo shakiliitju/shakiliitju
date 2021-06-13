@@ -4,8 +4,7 @@
 
 ## Profile Views
 <!--  ![Profile views](https://gpvc.arturio.dev/shakiliitju) -->
-
- <div id="sfcz8u2172fn8cawearc4794w3ydr24pg7z"></div><noscript><a href="https://www.freecounterstat.com" title="free counters"><img src="https://counter6.stat.ovh/private/freecounterstat.php?c=z8u2172fn8cawearc4794w3ydr24pg7z" border="0" title="free counters" alt="free counters"></a></noscript>
+<div id="sfckbld13njbaw13c5tz8cxg8xs9f1f3quj"></div><noscript><a href="https://www.freecounterstat.com" title="website counters"><img src="https://counter6.stat.ovh/private/freecounterstat.php?c=kbld13njbaw13c5tz8cxg8xs9f1f3quj" border="0" title="website counters" alt="website counters"></a></noscript>
 
 ## GitHub Stats
 
