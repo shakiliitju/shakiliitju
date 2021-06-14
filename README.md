@@ -24,7 +24,7 @@
 
 ## Social Media
 
-<a href="https://in.linkedin.com/in/md-shakil-hossain" target="_blank">
+<a href="https://in.linkedin.com/in/shakiliitju" target="_blank">
    <img align="left" alt="Md. Shakil Hossain | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
   </a>
   <a href="https://www.facebook.com/shakiliitju" target="_blank">
