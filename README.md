@@ -10,6 +10,8 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=shakiliitju&show_icons=true&theme=radica)
           
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shakiliitju&theme=default)](https://github.com/shakiliitju/github-readme-stats)
+
 ## Most Used Languages
 
 <img height="235cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakiliitju&theme=buefy&layout=compact"  />
