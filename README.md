@@ -2,9 +2,10 @@
 ### I am Md. Shakil Hossain✨
 - 🎓 I am Currently a 2nd year Student at <a href="https://www.juniv.edu/institute/iit" target="_blank">Institute of Information Technology</a>  in <a href="https://www.juniv.edu/" target="_blank">Jahangirnagar University.</a> 
 
+<!--
 ## Profile Views
-<!--  ![Profile views](https://gpvc.arturio.dev/shakiliitju) -->
-<div id="sfckbld13njbaw13c5tz8cxg8xs9f1f3quj"></div><noscript><a href="https://www.freecounterstat.com" title="website counters"><img src="https://counter6.stat.ovh/private/freecounterstat.php?c=kbld13njbaw13c5tz8cxg8xs9f1f3quj" border="0" title="website counters" alt="website counters"></a></noscript>
+
+ -->
 
 ## GitHub Stats
 
