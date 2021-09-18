@@ -2,17 +2,24 @@
 ### I am Md. Shakil Hossain✨
 - 🎓 I am Currently a 2nd year Student at <a href="https://www.juniv.edu/institute/iit" target="_blank">Institute of Information Technology</a>  in <a href="https://www.juniv.edu/" target="_blank">Jahangirnagar University.</a> 
 
+
 <!-- -->
 ## Profile Views
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakiliitju" alt="shakiliitju" /> </p>
 
+<!-- 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hridoy-31" alt="hridoy-31" /></a> </p> 
+ -->
  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakiliitju" alt="shakiliitju" /></a> </p>
+
 
 ## GitHub Stats
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=shakiliitju&show_icons=true&theme=radica)
           
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shakiliitju&theme=default)](https://github.com/shakiliitju/github-readme-stats)
+
 
 ## Most Used Languages
 
@@ -23,6 +30,7 @@
    <img align="left" alt="Md. Shakil Hossain | Website" width="26px" src="https://github.com/shakiliitju/shakiliitju/blob/main/world-wide-web.svg" />
   </a>
 <br>
+
 
 ## Social Media
 
@@ -47,7 +55,13 @@
 <a href="https://flickr.com/people/shakiliitju/" target="_blank">
    <img align="left" alt="Md. Shakil Hossain | Flickr" width="26px" src="https://github.com/shakiliitju/shakiliitju/blob/main/flickr.svg" />
 </a>
+<br>
 
 
+## Contribution Graph
+
+<p>
+<img alt="Md. Shakil Hossain's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shakiliitju&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+</p>
 
 
