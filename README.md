@@ -1,12 +1,12 @@
 ## Assalamu-Alaikum
 ### I am Md. Shakil Hossain✨
 - 🎓 I am Currently a 2nd year Student at <a href="https://www.juniv.edu/institute/iit" target="_blank">Institute of Information Technology</a>  in <a href="https://www.juniv.edu/" target="_blank">Jahangirnagar University.</a> 
-
+<hr>
 
 
 <!-- START NEW SECTION -->
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<h2 align="centre"><b>Visitors Count</h2>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{shakiliitju}/count.svg" /></p> 
 <br></div>
 
@@ -18,16 +18,28 @@
 
 
 
-<!-- -->
+<!-- START NEW SECTION -->
+<p align="center">
+  <img width="100" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
+  <h2 align="center">My Github Profile Trophy</h2>
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Cyebukayire&theme=radical&margin-w=40&margin-h=40)](https://github.com/Cyebukayire)
+
+<hr>
+
+
+
+<!-- 
 ## Profile Views
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakiliitju" alt="shakiliitju" /> </p>
 
-<!-- 
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hridoy-31" alt="hridoy-31" /></a> </p> 
- -->
+
  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakiliitju" alt="shakiliitju" /></a> </p>
-
+-->
 
 ## GitHub Stats
 
