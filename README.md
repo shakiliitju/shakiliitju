@@ -6,7 +6,7 @@
 
 <!-- START NEW SECTION -->
 <div align="center">
-<h2 align="centre"><b>Visitors Count</h2>  
+<h2 align="centre">Visitors Count</h2>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{shakiliitju}/count.svg" /></p> 
 <br></div>
 
@@ -24,7 +24,7 @@
   <h2 align="center">My Github Profile Trophy</h2>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Cyebukayire&theme=radical&margin-w=40&margin-h=40)](https://github.com/Cyebukayire)
+[![trophy](https://github-profile-trophy.vercel.app/?username=shakiliitju&theme=radical&margin-w=40&margin-h=40)](https://github.com/Cyebukayire)
 
 <hr>
 
@@ -41,6 +41,22 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakiliitju" alt="shakiliitju" /></a> </p>
 -->
 
+
+
+
+<!-- START NEW SECTION -->
+<p align="center">
+ <h2 align="center">My Github Stats</h2>
+
+|My github statistics|Most used languages|Streaks|
+|-|-|-|
+|[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=shakiliitju&show_icons=true&theme=dark&hide_title=true)](https://github.com/Cyebukayire)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakiliitju&show_icons=true&theme=dark&hide_title=true)](https://github.com/Cyebukayire)|![Cyebukayire](https://github-readme-streak-stats.herokuapp.com/?user=shakiliitju&theme=dark)
+<hr>
+<!-- &layout=compact -->
+
+
+
+<!--
 ## GitHub Stats
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=shakiliitju&show_icons=true&theme=radica)
@@ -48,9 +64,14 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shakiliitju&theme=default)](https://github.com/shakiliitju/github-readme-stats)
 
 
+
 ## Most Used Languages
 
 <img height="235cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakiliitju&theme=buefy&layout=compact"  />
+
+-->
+
+
 
 ## My Website 
 <a href="https://sites.google.com/view/md-hossain" target="_blank">
