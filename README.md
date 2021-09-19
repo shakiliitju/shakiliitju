@@ -64,7 +64,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shakiliitju&theme=default)](https://github.com/shakiliitju/github-readme-stats)
 
 
-
 ## Most Used Languages
 
 <img height="235cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakiliitju&theme=buefy&layout=compact"  />
@@ -72,8 +71,10 @@
 -->
 
 
-
-## My Website 
+<!-- START NEW SECTION -->
+<p align="center">
+ <h2 align="left">My Website</h2>
+ 
 <a href="https://sites.google.com/view/md-hossain" target="_blank">
    <img align="left" alt="Md. Shakil Hossain | Website" width="26px" src="https://github.com/shakiliitju/shakiliitju/blob/main/world-wide-web.svg" />
   </a>
