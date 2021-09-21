@@ -50,7 +50,7 @@
 
 |My github statistics|Most used languages|Streaks|
 |-|-|-|
-|[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=shakiliitju&show_icons=true&theme=dark&hide_title=true)](https://github.com/Cyebukayire)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakiliitju&show_icons=true&theme=dark&hide_title=true)](https://github.com/Cyebukayire)|![Cyebukayire](https://github-readme-streak-stats.herokuapp.com/?user=shakiliitju&theme=dark)
+|[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=shakiliitju&show_icons=true&theme=dark&hide_title=true)](https://github.com/Cyebukayire)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakiliitju&show_icons=true&theme=dark&hide_title=true)](https://github.com/Cyebukayire)|![shakiliitju](https://github-readme-streak-stats.herokuapp.com/?user=shakiliitju&theme=dark)
 <hr>
 <!-- &layout=compact -->
 
