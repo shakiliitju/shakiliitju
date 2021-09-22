@@ -81,6 +81,9 @@
 <br>
 
 
+
+
+<!-- START NEW SECTION -->
 ## Social Media
 
 <a href="https://in.linkedin.com/in/shakiliitju" target="_blank">
@@ -107,8 +110,12 @@
 <br>
 
 
-## Contribution Graph
 
+
+
+<!-- START NEW SECTION -->
+<p align="center">
+ <h2 align="center">Contribution Graph</h2>
 <p>
 <img alt="Md. Shakil Hossain's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shakiliitju&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </p>
