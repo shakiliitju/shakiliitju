@@ -1,23 +1,36 @@
-## Assalamu-Alaikum
-### I am Md. Shakil Hossain✨
-- 🎓 I am Currently a 2nd year Student at <a href="https://www.juniv.edu/institute/iit" target="_blank">Institute of Information Technology</a>  in <a href="https://www.juniv.edu/" target="_blank">Jahangirnagar University.</a> 
-<hr>
-
-
-<!-- START NEW SECTION -->
+<!DOCTYPE html>
+<html>
+ <head>
+ </head>
+  <body>
+    
+<!-- Start My Basic Information -->
+<section>
+   <h1>Assalamu-Alaikum</h1>
+   <h2>I am Md. Shakil Hossain✨</h2>
+   <p>🎓 I am Currently a 2nd year Student at <a href="https://www.juniv.edu/institute/iit" target="_blank">Institute of Information Technology</a>  in <a href="https://www.juniv.edu/" target="_blank">Jahangirnagar University.</a>
+   </p>
+   <hr>
+</section>
+<!-- End My Basic Information -->
+  
+    
+    
+<!-- START Visitor Count -->
 <div align="center">
 <h2 align="centre">Visitors Count</h2>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{shakiliitju}/count.svg" /></p> 
-<br></div>
-
-
+<br>
+</div>
 <p align="center">
 <img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" />
 </p>
 <hr>
+<!-- End Visitor Count -->
 
 
-
+    
+    
 <!-- START NEW SECTION -->
 <p align="center">
   <img width="100" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
@@ -120,4 +133,5 @@
 <img alt="Md. Shakil Hossain's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shakiliitju&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </p>
 
-
+</body>
+</html>
