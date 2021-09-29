@@ -6,7 +6,7 @@
     
 <!-- Start My Basic Information -->
 <section>
-   <h1>Assalamu-Alaikum</h1>
+   <h1 align="center">Assalamu-Alaikum</h1>
    <h2>I am Md. Shakil Hossain✨</h2>
    <p>🎓 I am Currently a 2nd year Student at <a href="https://www.juniv.edu/institute/iit" target="_blank">Institute of Information Technology</a>  in <a href="https://www.juniv.edu/" target="_blank">Jahangirnagar University.</a>
    </p>
