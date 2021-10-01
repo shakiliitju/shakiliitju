@@ -134,9 +134,8 @@
 
 
 
-
-
- ## 🛠️ My favorite tools
+<!-- START My favorite tools -->
+<h2 align="center">🛠️ My favorite tools</h2>
 
 ### 👨‍💻 Programming languages
 
@@ -168,6 +167,8 @@
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
 </p>
+ <br>
+ 
 
 ### 🧰 Frameworks and libraries
 
@@ -195,7 +196,9 @@
     <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
     <a href="#"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white"></a>
 </p>
-
+<br>
+ 
+ 
 ### 🗄️ Databases and cloud hosting
 
 <p>
@@ -210,7 +213,9 @@
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
     <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
 </p>
-
+<br>
+ 
+ 
 ### 💻 Software and tools
 
 <p>
@@ -235,8 +240,12 @@
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
+ <br>
 <hr>
-
+<!-- End My favorite tools -->
+ 
+ 
+ 
 
 <!-- START NEW SECTION -->
 <p align="center">
