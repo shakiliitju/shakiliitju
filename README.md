@@ -18,21 +18,23 @@
    
    
 <!-- Start Contact Me -->
-<p align="center">
+<section>
+ <p align="center">
  <h2 align="center">Contact Me </h2>
  <h2>My Website</h2>
-<a href="https://sites.google.com/view/md-hossain" target="_blank">
+ <a href="https://sites.google.com/view/md-hossain" target="_blank">
    <img align="left" alt="Md. Shakil Hossain | Website" width="26px" src="https://github.com/shakiliitju/shakiliitju/blob/main/world-wide-web.svg" />
   </a>
 <br>
-<hr>
+ </section>
 <!-- End Contact Me -->
 
 
 
-<!-- Start My Basic Information -->
-## Social Media
+<!-- Start Social Media -->
 
+## Social Media
+<section>
 <a href="https://in.linkedin.com/in/shakiliitju" target="_blank">
    <img align="left" alt="Md. Shakil Hossain | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
   </a>
@@ -55,8 +57,13 @@
    <img align="left" alt="Md. Shakil Hossain | Flickr" width="26px" src="https://github.com/shakiliitju/shakiliitju/blob/main/flickr.svg" />
 </a>
 <br>
-
-    
+<hr>
+</section>
+<!-- End Social Media -->
+   
+   
+   
+   
     
 <!-- START Visitor Count -->
 <div align="center">
