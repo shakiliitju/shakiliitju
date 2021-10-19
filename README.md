@@ -116,6 +116,25 @@
 <hr>
 <!-- &layout=compact -->
 
+ 
+ 
+ 
+ <!-- START NEW SECTION 
+<p align="center">
+ <h2 align="center">Project</h2>
+
+| Index | Project | Tech Used |
+|:------:|:-----------------:|:------:|
+|   1  |[Multiplication Game for Elementary-aged kids](https://github.com/codinglayla/java-projects/tree/main/Multiplication%20game%20for%20Elementary-aged%20students)| Java |
+|   2  |[Employee Calculator](https://github.com/codinglayla/java-projects/tree/main/Employee%20calculator%20v.2%20(with%20input))| Java|
+|   3  |[Freecodecamp Python Projects](https://github.com/codinglayla/python-freecodecamp-challenges)| Python |
+|   4  |[HTML/CSS small projects](https://github.com/codinglayla/html-css-projects)| HTML, CSS |
+|   5  |[Java small projects](https://github.com/codinglayla/java-projects)| Java |
+
+<br>
+ <hr>
+ End Project -->
+ 
 
 
 <!--
