@@ -22,7 +22,13 @@
  <p align="center">
  <h2 align="center">Contact Me </h2>
  <h2>My Website</h2>
- <a href="https://sites.google.com/view/md-hossain" target="_blank">
+ <a href="https://sites.google.com/view/shakiliitju" target="_blank">
+   <img align="left" alt="Md. Shakil Hossain | Website" width="26px" src="https://github.com/shakiliitju/shakiliitju/blob/main/world-wide-web.svg" />
+  </a>
+	<a href="https://shakiliitju.github.io/portfolio/" target="_blank">
+   <img align="left" alt="Md. Shakil Hossain | Website" width="26px" src="https://github.com/shakiliitju/shakiliitju/blob/main/world-wide-web.svg" />
+  </a>
+	<a href="https://shakiliitju.blogspot.com/" target="_blank">
    <img align="left" alt="Md. Shakil Hossain | Website" width="26px" src="https://github.com/shakiliitju/shakiliitju/blob/main/world-wide-web.svg" />
   </a>
 <br>
