@@ -7,67 +7,18 @@
 <!-- Start My Basic Information -->
 <section>
    <h1 align="center">Assalamu-Alaikum</h1>
-   <h2>I am Md. Shakil Hossain✨</h2>
+   <div align="center">
+  <img src="https://github.com/freekmurze/freekmurze/blob/master/dino.gif">
+  </div>
+   <h2 align="center">I am Md. Shakil Hossain✨</h2>
    <p>🎓 I am Currently a 3rd year Student at <a href="https://www.juniv.edu/institute/iit" target="_blank">Institute of Information Technology</a>  in <a href="https://www.juniv.edu/" target="_blank">Jahangirnagar University.</a>
    </p>
-   <hr>
+   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+
+
 </section>
 <!-- End My Basic Information -->
   
-   
-   
-   
-<!-- Start Contact Me -->
-<section>
- <p align="center">
- <h2 align="center">Contact Me </h2>
- <h2>My Website</h2>
- <a href="https://sites.google.com/view/shakiliitju" target="_blank">
-   <img align="left" alt="Md. Shakil Hossain | Website" width="26px" src="https://github.com/shakiliitju/shakiliitju/blob/main/world-wide-web.svg" />
-  </a>
-	<a href="https://shakiliitju.github.io/portfolio/" target="_blank">
-   <img align="left" alt="Md. Shakil Hossain | Website" width="26px" src="https://github.com/shakiliitju/shakiliitju/blob/main/world-wide-web.svg" />
-  </a>
-	<a href="https://shakiliitju.blogspot.com/" target="_blank">
-   <img align="left" alt="Md. Shakil Hossain | Website" width="26px" src="https://github.com/shakiliitju/shakiliitju/blob/main/world-wide-web.svg" />
-  </a>
-<br>
- </section>
-<!-- End Contact Me -->
-
-
-
-<!-- Start Social Media -->
-
-## Social Media
-<section>
-<a href="https://in.linkedin.com/in/shakiliitju" target="_blank">
-   <img align="left" alt="Md. Shakil Hossain | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
-  </a>
-  <a href="https://www.facebook.com/shakiliitju" target="_blank">
-   <img align="left" alt="Md. Shakil Hossain | Facebook" width="26px" src="https://github.com/shakiliitju/shakiliitju/blob/main/facebook.svg" />
-</a>
-  <a href="https://twitter.com/shakiliitju" target="_blank">
-    <img align="left" alt="Md. Shakil Hossain | Twitter" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" />
-  </a>
-  <a href="https://www.instagram.com/shakiliitju/" target="_blank">
-    <img align="left" alt="Md. Shakil Hossain | Instagram" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Instagram.svg" />
-  </a>
-  <a href="https://www.youtube.com/channel/UCOs-5vDybRI2YvpUiJrd_9Q" target="_blank">
-   <img align="left" alt="Md. Shakil Hossain | Youtube" width="26px" src="https://github.com/shakiliitju/shakiliitju/blob/main/youtube.svg" />
-</a>
- <a href="https://www.behance.net/md_shakil_hossain/" target="_blank">
-   <img align="left" alt="Md. Shakil Hossain | Behance" width="26px" src="https://github.com/shakiliitju/shakiliitju/blob/main/behance.svg" />
-</a>
-<a href="https://flickr.com/people/shakiliitju/" target="_blank">
-   <img align="left" alt="Md. Shakil Hossain | Flickr" width="26px" src="https://github.com/shakiliitju/shakiliitju/blob/main/flickr.svg" />
-</a>
-<br>
-<hr>
-</section>
-<!-- End Social Media -->
-   
-   
    
    
     
@@ -80,7 +31,7 @@
 <!-- <p align="center">
 <img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" />
 </p> -->
-<hr>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 <!-- End Visitor Count -->
 
 
@@ -94,20 +45,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shakiliitju&theme=radical&margin-w=40&margin-h=40)](https://github.com/Cyebukayire)
 
-<hr>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
-
-
-<!-- 
-## Profile Views
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shakiliitju" alt="shakiliitju" /> </p>
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hridoy-31" alt="hridoy-31" /></a> </p> 
-
- 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakiliitju" alt="shakiliitju" /></a> </p>
--->
 
 
 
@@ -119,22 +58,11 @@
 |My github statistics|Most used languages|Streaks|
 |-|-|-|
 |[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=shakiliitju&show_icons=true&theme=dark&hide_title=true)](https://github.com/Cyebukayire)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakiliitju&show_icons=true&theme=dark&hide_title=true)](https://github.com/Cyebukayire)|![shakiliitju](https://github-readme-streak-stats.herokuapp.com/?user=shakiliitju&theme=dark)
-<hr>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+
 <!-- &layout=compact -->
 
  
-
- 
- <!-- START NEW SECTION 
-	<br> 
-	 <h1 align="center" > My Github Skyline </h1>
-		<a align="center" style="margine-right:100px;" href="https://skyline.github.com/shakiliitju/2022"><pre><img align="center" height="70"  width="230"src="https://media.istockphoto.com/vectors/big-data-abstract-visualization-polygonal-algorithm-analyze-data-vector-id1264215551?k=20&m=1264215551&s=612x612&w=0&h=gQ_hWf6RX2KHGAwVMYRdDL6aFd1VuAa0cpITxf_VjYI="></pre>
-	<a/>
-	
-	
- ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
- 
--->
  
  
  <!-- START NEW SECTION 
@@ -154,20 +82,6 @@
  End Project -->
  
 
-
-<!--
-## GitHub Stats
-
-![github stats](https://github-readme-stats.vercel.app/api?username=shakiliitju&show_icons=true&theme=radica)
-          
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shakiliitju&theme=default)](https://github.com/shakiliitju/github-readme-stats)
-
-
-## Most Used Languages
-
-<img height="235cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakiliitju&theme=buefy&layout=compact"  />
-
--->
 
 
 
@@ -278,13 +192,14 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
  <br>
-<hr>
+ <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+
 <!-- End My favorite tools -->
  
  
  
 
-<!-- START NEW SECTION -->
+<!-- START Contribution Graph SECTION -->
 <p align="center">
  <h2 align="center">Contribution Graph</h2>
 	
@@ -295,6 +210,62 @@
 <!-- <p>
 <img alt="Md. Shakil Hossain's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shakiliitju&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </p> -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+<!-- END Contribution Graph SECTION -->
+
+
+
+   
+<!-- Start Contact Me -->
+<section>
+  <p align="center">
+  <h2 align="center">Contact Me </h2>
+  <h2>My Website</h2>
+  <a href="https://sites.google.com/view/shakiliitju" target="_blank">
+    <img align="left" alt="Md. Shakil Hossain | Website" width="26px" src="https://github.com/shakiliitju/shakiliitju/blob/main/world-wide-web.svg" />
+   </a>
+   <a href="https://shakiliitju.github.io/portfolio/" target="_blank">
+    <img align="left" alt="Md. Shakil Hossain | Website" width="26px" src="https://github.com/shakiliitju/shakiliitju/blob/main/world-wide-web.svg" />
+   </a>
+   <a href="https://shakiliitju.blogspot.com/" target="_blank">
+    <img align="left" alt="Md. Shakil Hossain | Website" width="26px" src="https://github.com/shakiliitju/shakiliitju/blob/main/world-wide-web.svg" />
+   </a>
+ <br>
+  </section>
+ <!-- End Contact Me -->
+ 
+ 
+ 
+ <!-- Start Social Media -->
+ 
+ ## Social Media
+ <section>
+ <a href="https://in.linkedin.com/in/shakiliitju" target="_blank">
+    <img align="left" alt="Md. Shakil Hossain | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
+   </a>
+   <a href="https://www.facebook.com/shakiliitju" target="_blank">
+    <img align="left" alt="Md. Shakil Hossain | Facebook" width="26px" src="https://github.com/shakiliitju/shakiliitju/blob/main/facebook.svg" />
+ </a>
+   <a href="https://twitter.com/shakiliitju" target="_blank">
+     <img align="left" alt="Md. Shakil Hossain | Twitter" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" />
+   </a>
+   <a href="https://www.instagram.com/shakiliitju/" target="_blank">
+     <img align="left" alt="Md. Shakil Hossain | Instagram" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Instagram.svg" />
+   </a>
+   <a href="https://www.youtube.com/channel/UCOs-5vDybRI2YvpUiJrd_9Q" target="_blank">
+    <img align="left" alt="Md. Shakil Hossain | Youtube" width="26px" src="https://github.com/shakiliitju/shakiliitju/blob/main/youtube.svg" />
+ </a>
+  <a href="https://www.behance.net/md_shakil_hossain/" target="_blank">
+    <img align="left" alt="Md. Shakil Hossain | Behance" width="26px" src="https://github.com/shakiliitju/shakiliitju/blob/main/behance.svg" />
+ </a>
+ <a href="https://flickr.com/people/shakiliitju/" target="_blank">
+    <img align="left" alt="Md. Shakil Hossain | Flickr" width="26px" src="https://github.com/shakiliitju/shakiliitju/blob/main/flickr.svg" />
+ </a>
+ <br>
+ </section>
+ <!-- End Social Media -->
+
+
 
 </body>
 </html>
