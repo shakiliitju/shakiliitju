@@ -233,6 +233,11 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shakiliitju&theme=monokai" align="center" />
 </p>
 	
+
+<p align="center">
+<img alt="Md. Shakil Hossain's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=shakiliitju&theme=github-compact" align="center"/>
+</p>
+	
 <!-- <p>
 <img alt="Md. Shakil Hossain's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shakiliitju&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </p> -->
