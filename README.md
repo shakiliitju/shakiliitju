@@ -28,6 +28,12 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{shakiliitju}/count.svg" /></p> 
 <br>
 </div>
+
+<div align="center">
+<p align="center">counting of visitors to this page in this section started from Jan 15, 2023</p>
+<a href="https://info.flagcounter.com/CHgw"><img src="https://s11.flagcounter.com/count2/CHgw/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="10"></a>
+</div>	  
+	  
 <!-- <p align="center">
 <img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" />
 </p> -->
