@@ -13,8 +13,10 @@
    <h2 align="center">I am Md. Shakil Hossain✨</h2>
    <p>🎓 I am Currently a 3rd year Student at <a href="https://www.juniv.edu/institute/iit" target="_blank">Institute of Information Technology</a>  in <a href="https://www.juniv.edu/" target="_blank">Jahangirnagar University.</a>
    </p>
-   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 
+<!-- <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="1000" height="3">
+<br> -->
 
 </section>
 <!-- End My Basic Information -->
@@ -37,7 +39,7 @@
 <!-- <p align="center">
 <img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" />
 </p> -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 <!-- End Visitor Count -->
 
 
@@ -51,7 +53,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shakiliitju&theme=radical&margin-w=40&margin-h=40)](https://github.com/Cyebukayire)
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 <!-- END My Github Profile Trophy SECTION -->
 
 
@@ -64,7 +66,7 @@
 |My github statistics|Most used languages|Streaks|
 |-|-|-|
 |[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=shakiliitju&show_icons=true&theme=dark&hide_title=true)](https://github.com/Cyebukayire)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakiliitju&show_icons=true&theme=dark&hide_title=true)](https://github.com/Cyebukayire)|![shakiliitju](https://github-readme-streak-stats.herokuapp.com/?user=shakiliitju&theme=dark)
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 
 <!-- &layout=compact -->
 
@@ -110,7 +112,7 @@
 | ![aws](./img/technologies/aws.png)                             | AWS               | ![50%](https://progress-bar.dev/60/) | ![git](./img/technologies/git.png)                         | Git             | ![80%](https://progress-bar.dev/80/) |
 | ![github](./img/technologies/github.png)                       | GitHub            | ![80%](https://progress-bar.dev/80/) |
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 	
 <!-- END Learning Tecnologias SECTION -->
 
@@ -224,7 +226,7 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
  <br>
- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+ <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 
 <!-- End My favorite tools -->
  
@@ -247,7 +249,7 @@
 <!-- <p>
 <img alt="Md. Shakil Hossain's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shakiliitju&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </p> -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 <!-- END Contribution Graph SECTION -->
 
 
