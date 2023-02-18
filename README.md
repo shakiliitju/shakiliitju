@@ -6,7 +6,7 @@
     
 <!-- Start My Basic Information -->
 <section>
-   <h1 align="center">Assalamu-Alaikum</h1>
+   <h1 align="center">Assalamu-Alaikum</h1>	
    <div align="center">
   <img src="https://github.com/freekmurze/freekmurze/blob/master/dino.gif">
   </div>
@@ -73,7 +73,7 @@
  
  
  
- <!-- START NEW SECTION 
+<!--  START NEW SECTION  -->
 <p align="center">
  <h2 align="center">Project</h2>
 
@@ -87,8 +87,9 @@
 
 <br>
  <hr>
- End Project -->
- 
+
+
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>📚 Forks</b></td><td><b>🛎 Issues</b></td><td><b>📬 Pull requests</b></td><td><b>💡 Last Commit</b></td></tr></thead><tbody><tr><td><a href=https://github.com/mx-space/kami><b>mx-space/kami</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/mx-space/kami?style=flat-square&labelColor=343b41"></td><td><img alt=Forks src="https://img.shields.io/github/forks/mx-space/kami?style=flat-square&labelColor=343b41"></td><td><a href=https://github.com/mx-space/kami/issues target=_blank><img alt=Issues src="https://img.shields.io/github/issues/mx-space/kami?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/mx-space/kami/pulls target=_blank><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/mx-space/kami?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/mx-space/kami/commits target=_blank><img alt="Last Commits"src="https://img.shields.io/github/last-commit/mx-space/kami?style=flat-square&labelColor=343b41"></a></td></tr><tr><td><a href=https://github.com/mx-space/core><b>mx-space/core</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/mx-space/core?style=flat-square&labelColor=343b41"></td><td><img alt=Forks src="https://img.shields.io/github/forks/mx-space/core?style=flat-square&labelColor=343b41"></td><td><a href=https://github.com/mx-space/core/issues target=_blank><img alt=Issues src="https://img.shields.io/github/issues/mx-space/core?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/mx-space/core/pulls target=_blank><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/mx-space/core?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/mx-space/core/commits target=_blank><img alt="Last Commits"src="https://img.shields.io/github/last-commit/mx-space/core?style=flat-square&labelColor=343b41"></a></td></tr><tr><td><a href=https://github.com/mx-space/mx-admin><b>mx-space/mx-admin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/mx-space/mx-admin?style=flat-square&labelColor=343b41"></td><td><img alt=Forks src="https://img.shields.io/github/forks/mx-space/mx-admin?style=flat-square&labelColor=343b41"></td><td><a href=https://github.com/mx-space/mx-admin/issues target=_blank><img alt=Issues src="https://img.shields.io/github/issues/mx-space/mx-admin?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/mx-space/mx-admin/pulls target=_blank><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/mx-space/mx-admin?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/mx-space/mx-admin/commits target=_blank><img alt="Last Commits"src="https://img.shields.io/github/last-commit/mx-space/mx-admin?style=flat-square&labelColor=343b41"></a></td></tr><tr><td><a href=https://github.com/Innei/bump-version><b>Innei/bump-version</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/bump-version?style=flat-square&labelColor=343b41"></td><td><img alt=Forks src="https://img.shields.io/github/forks/Innei/bump-version?style=flat-square&labelColor=343b41"></td><td><a href=https://github.com/Innei/bump-version/issues target=_blank><img alt=Issues src="https://img.shields.io/github/issues/Innei/bump-version?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/Innei/bump-version/pulls target=_blank><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/Innei/bump-version?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/Innei/bump-version/commits target=_blank><img alt="Last Commits"src="https://img.shields.io/github/last-commit/Innei/bump-version?style=flat-square&labelColor=343b41"></a></td></tr></tbody></table>
 
 
 	
