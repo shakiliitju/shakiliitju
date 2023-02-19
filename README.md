@@ -73,24 +73,98 @@
  
  
  
-<!--  START NEW SECTION  -->
+<!--  START Project SECTION  -->
 <p align="center">
  <h2 align="center">Project</h2>
 
-| Index | Project | Tech Used |
-|:------:|:-----------------:|:------:|
-|   1  |[Multiplication Game for Elementary-aged kids](https://github.com/codinglayla/java-projects/tree/main/Multiplication%20game%20for%20Elementary-aged%20students)| Java |
-|   2  |[Employee Calculator](https://github.com/codinglayla/java-projects/tree/main/Employee%20calculator%20v.2%20(with%20input))| Java|
-|   3  |[Freecodecamp Python Projects](https://github.com/codinglayla/python-freecodecamp-challenges)| Python |
-|   4  |[HTML/CSS small projects](https://github.com/codinglayla/html-css-projects)| HTML, CSS |
-|   5  |[Java small projects](https://github.com/codinglayla/java-projects)| Java |
 
-<br>
- <hr>
+<table>
+        <thead align=center>
+            <tr border: none;>
+                <td><b>📜 Index</b></td>
+                <td><b>🎁 Projects</b></td>
+                <td><b>🪛Technology Used</b></td>
+                <td><b>⭐ Stars</b></td>
+                <td><b>📚 Forks</b></td>
+                <td><b>🛎 Issues</b></td>
+                <td><b>📬 Pull requests</b></td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td><a href="https://github.com/shakiliitju/Jahangirnagar-University-Islami-Library-JUIL" target="_blank"><b>Jahangirnagar University Islami Library-JUIL</b></a></td>
+                <td>PHP, HTML, CSS, JavaScript</td>
+                <td><img alt=Stars
+                        src="https://img.shields.io/github/stars/shakiliitju/Jahangirnagar-University-Islami-Library-JUIL?style=flat-square&labelColor=343b41">
+                </td>
+                <td><img alt=Forks
+                        src="https://img.shields.io/github/forks/shakiliitju/Jahangirnagar-University-Islami-Library-JUIL?style=flat-square&labelColor=343b41">
+                </td>
+                <td><a href=https://github.com/shakiliitju/Jahangirnagar-University-Islami-Library-JUIL/issues target=_blank><img alt=Issues
+                            src="https://img.shields.io/github/issues/shakiliitju/Jahangirnagar-University-Islami-Library-JUIL?style=flat-square&labelColor=343b41"></a>
+                </td>
+                <td><a href=https://github.com/shakiliitju/Jahangirnagar-University-Islami-Library-JUIL/pulls target=_blank><img alt="Pull Requests"
+                            src="https://img.shields.io/github/issues-pr/shakiliitju/Jahangirnagar-University-Islami-Library-JUIL?style=flat-square&labelColor=343b41"></a>
+                </td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td><a href="https://github.com/shakiliitju/JU-Medical-Management-System" target="_blank"><b>JU Medical Management System</b></a></td>
+                <td>PHP, HTML, CSS, JavaScript</td>
+                <td><img alt=Stars
+                        src="https://img.shields.io/github/stars/shakiliitju/JU-Medical-Management-System?style=flat-square&labelColor=343b41">
+                </td>
+                <td><img alt=Forks
+                        src="https://img.shields.io/github/forks/shakiliitju/JU-Medical-Management-System?style=flat-square&labelColor=343b41">
+                </td>
+                <td><a href=https://github.com/mx-space/core/issues target=_blank><img alt=Issues
+                            src="https://img.shields.io/github/issues/shakiliitju/JU-Medical-Management-System?style=flat-square&labelColor=343b41"></a>
+                </td>
+                <td><a href=https://github.com/mx-space/core/pulls target=_blank><img alt="Pull Requests"
+                            src="https://img.shields.io/github/issues-pr/shakiliitju/JU-Medical-Management-System?style=flat-square&labelColor=343b41"></a>
+                </td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td><a href="https://github.com/shakiliitju/Process-Scheduling-Simulator" target="_blank"><b>Process Scheduling Simulator</b></a></td>
+                <td>HTML, CSS, JavaScript</td>
+                <td><img alt=Stars
+                        src="https://img.shields.io/github/stars/shakiliitju/Process-Scheduling-Simulator?style=flat-square&labelColor=343b41">
+                </td>
+                <td><img alt=Forks
+                        src="https://img.shields.io/github/forks/shakiliitju/Process-Scheduling-Simulator?style=flat-square&labelColor=343b41">
+                </td>
+                <td><a href=https://github.com/shakiliitju/Process-Scheduling-Simulator/issues target=_blank><img alt=Issues
+                            src="https://img.shields.io/github/issues/shakiliitju/Process-Scheduling-Simulator?style=flat-square&labelColor=343b41"></a>
+                </td>
+                <td><a href=https://github.com/shakiliitju/Process-Scheduling-Simulator/pulls target=_blank><img alt="Pull Requests"
+                            src="https://img.shields.io/github/issues-pr/shakiliitju/Process-Scheduling-Simulator?style=flat-square&labelColor=343b41"></a>
+                </td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td><a href="https://github.com/shakiliitju/Student-Management-System-Using-Nodejs" target="_blank"><b>Student Management System Using Node JS</b></a></td>
+                <td>Node Js, HTML, CSS, JavaScript</td>
+                <td><img alt=Stars
+                        src="https://img.shields.io/github/stars/shakiliitju/Student-Management-System-Using-Nodejs?style=flat-square&labelColor=343b41">
+                </td>
+                <td><img alt=Forks
+                        src="https://img.shields.io/github/forks/shakiliitju/Student-Management-System-Using-Nodejs?style=flat-square&labelColor=343b41">
+                </td>
+                <td><a href=https://github.com/shakiliitju/Student-Management-System-Using-Nodejs/issues target=_blank><img alt=Issues
+                            src="https://img.shields.io/github/issues/shakiliitju/Student-Management-System-Using-Nodejs?style=flat-square&labelColor=343b41"></a>
+                </td>
+                <td><a href=https://github.com/shakiliitju/Student-Management-System-Using-Nodejs/pulls target=_blank><img alt="Pull Requests"
+                            src="https://img.shields.io/github/issues-pr/shakiliitju/Student-Management-System-Using-Nodejs?style=flat-square&labelColor=343b41"></a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>📚 Forks</b></td><td><b>🛎 Issues</b></td><td><b>📬 Pull requests</b></td><td><b>💡 Last Commit</b></td></tr></thead><tbody><tr><td><a href=https://github.com/mx-space/kami><b>mx-space/kami</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/mx-space/kami?style=flat-square&labelColor=343b41"></td><td><img alt=Forks src="https://img.shields.io/github/forks/mx-space/kami?style=flat-square&labelColor=343b41"></td><td><a href=https://github.com/mx-space/kami/issues target=_blank><img alt=Issues src="https://img.shields.io/github/issues/mx-space/kami?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/mx-space/kami/pulls target=_blank><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/mx-space/kami?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/mx-space/kami/commits target=_blank><img alt="Last Commits"src="https://img.shields.io/github/last-commit/mx-space/kami?style=flat-square&labelColor=343b41"></a></td></tr><tr><td><a href=https://github.com/mx-space/core><b>mx-space/core</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/mx-space/core?style=flat-square&labelColor=343b41"></td><td><img alt=Forks src="https://img.shields.io/github/forks/mx-space/core?style=flat-square&labelColor=343b41"></td><td><a href=https://github.com/mx-space/core/issues target=_blank><img alt=Issues src="https://img.shields.io/github/issues/mx-space/core?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/mx-space/core/pulls target=_blank><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/mx-space/core?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/mx-space/core/commits target=_blank><img alt="Last Commits"src="https://img.shields.io/github/last-commit/mx-space/core?style=flat-square&labelColor=343b41"></a></td></tr><tr><td><a href=https://github.com/mx-space/mx-admin><b>mx-space/mx-admin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/mx-space/mx-admin?style=flat-square&labelColor=343b41"></td><td><img alt=Forks src="https://img.shields.io/github/forks/mx-space/mx-admin?style=flat-square&labelColor=343b41"></td><td><a href=https://github.com/mx-space/mx-admin/issues target=_blank><img alt=Issues src="https://img.shields.io/github/issues/mx-space/mx-admin?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/mx-space/mx-admin/pulls target=_blank><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/mx-space/mx-admin?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/mx-space/mx-admin/commits target=_blank><img alt="Last Commits"src="https://img.shields.io/github/last-commit/mx-space/mx-admin?style=flat-square&labelColor=343b41"></a></td></tr><tr><td><a href=https://github.com/Innei/bump-version><b>Innei/bump-version</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/bump-version?style=flat-square&labelColor=343b41"></td><td><img alt=Forks src="https://img.shields.io/github/forks/Innei/bump-version?style=flat-square&labelColor=343b41"></td><td><a href=https://github.com/Innei/bump-version/issues target=_blank><img alt=Issues src="https://img.shields.io/github/issues/Innei/bump-version?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/Innei/bump-version/pulls target=_blank><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/Innei/bump-version?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/Innei/bump-version/commits target=_blank><img alt="Last Commits"src="https://img.shields.io/github/last-commit/Innei/bump-version?style=flat-square&labelColor=343b41"></a></td></tr></tbody></table>
-
+<!--  START Project SECTION  -->
 
 	
 <!-- START Learning Tecnologias SECTION -->	
