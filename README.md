@@ -86,8 +86,8 @@
                 <td><b>🪛Technology Used</b></td>
                 <td><b>⭐ Stars</b></td>
                 <td><b>📚 Forks</b></td>
-                <td><b>🛎 Issues</b></td>
-                <td><b>📬 Pull requests</b></td>
+<!--                 <td><b>🛎 Issues</b></td> -->
+                <td><b>📬 Pull requests</b></td> 
             </tr>
         </thead>
         <tbody>
@@ -101,12 +101,12 @@
                 <td><img alt=Forks
                         src="https://img.shields.io/github/forks/shakiliitju/Jahangirnagar-University-Islami-Library-JUIL?style=flat-square&labelColor=343b41">
                 </td>
-                <td><a href=https://github.com/shakiliitju/Jahangirnagar-University-Islami-Library-JUIL/issues target=_blank><img alt=Issues
+<!--                 <td><a href=https://github.com/shakiliitju/Jahangirnagar-University-Islami-Library-JUIL/issues target=_blank><img alt=Issues
                             src="https://img.shields.io/github/issues/shakiliitju/Jahangirnagar-University-Islami-Library-JUIL?style=flat-square&labelColor=343b41"></a>
-                </td>
+                </td> -->
                 <td><a href=https://github.com/shakiliitju/Jahangirnagar-University-Islami-Library-JUIL/pulls target=_blank><img alt="Pull Requests"
                             src="https://img.shields.io/github/issues-pr/shakiliitju/Jahangirnagar-University-Islami-Library-JUIL?style=flat-square&labelColor=343b41"></a>
-                </td>
+                </td> 
             </tr>
             <tr>
                 <td>2</td>
@@ -118,12 +118,12 @@
                 <td><img alt=Forks
                         src="https://img.shields.io/github/forks/shakiliitju/JU-Medical-Management-System?style=flat-square&labelColor=343b41">
                 </td>
-                <td><a href=https://github.com/mx-space/core/issues target=_blank><img alt=Issues
+<!--                 <td><a href=https://github.com/mx-space/core/issues target=_blank><img alt=Issues
                             src="https://img.shields.io/github/issues/shakiliitju/JU-Medical-Management-System?style=flat-square&labelColor=343b41"></a>
-                </td>
+                </td>   -->
                 <td><a href=https://github.com/mx-space/core/pulls target=_blank><img alt="Pull Requests"
                             src="https://img.shields.io/github/issues-pr/shakiliitju/JU-Medical-Management-System?style=flat-square&labelColor=343b41"></a>
-                </td>
+                </td> 
             </tr>
             <tr>
                 <td>3</td>
@@ -135,12 +135,12 @@
                 <td><img alt=Forks
                         src="https://img.shields.io/github/forks/shakiliitju/Process-Scheduling-Simulator?style=flat-square&labelColor=343b41">
                 </td>
-                <td><a href=https://github.com/shakiliitju/Process-Scheduling-Simulator/issues target=_blank><img alt=Issues
+<!--                 <td><a href=https://github.com/shakiliitju/Process-Scheduling-Simulator/issues target=_blank><img alt=Issues
                             src="https://img.shields.io/github/issues/shakiliitju/Process-Scheduling-Simulator?style=flat-square&labelColor=343b41"></a>
-                </td>
+                </td>   -->
                 <td><a href=https://github.com/shakiliitju/Process-Scheduling-Simulator/pulls target=_blank><img alt="Pull Requests"
                             src="https://img.shields.io/github/issues-pr/shakiliitju/Process-Scheduling-Simulator?style=flat-square&labelColor=343b41"></a>
-                </td>
+                </td> 
             </tr>
             <tr>
                 <td>4</td>
@@ -152,12 +152,12 @@
                 <td><img alt=Forks
                         src="https://img.shields.io/github/forks/shakiliitju/Student-Management-System-Using-Nodejs?style=flat-square&labelColor=343b41">
                 </td>
-                <td><a href=https://github.com/shakiliitju/Student-Management-System-Using-Nodejs/issues target=_blank><img alt=Issues
+<!--                 <td><a href=https://github.com/shakiliitju/Student-Management-System-Using-Nodejs/issues target=_blank><img alt=Issues
                             src="https://img.shields.io/github/issues/shakiliitju/Student-Management-System-Using-Nodejs?style=flat-square&labelColor=343b41"></a>
-                </td>
+                </td>   -->
                 <td><a href=https://github.com/shakiliitju/Student-Management-System-Using-Nodejs/pulls target=_blank><img alt="Pull Requests"
                             src="https://img.shields.io/github/issues-pr/shakiliitju/Student-Management-System-Using-Nodejs?style=flat-square&labelColor=343b41"></a>
-                </td>
+                </td> 
             </tr>
         </tbody>
     </table>
