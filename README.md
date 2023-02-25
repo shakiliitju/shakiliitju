@@ -92,9 +92,9 @@
         </thead>
         <tbody>
             <tr>
-                <td>1</td>
+                <td align=center>1</td>
                 <td><a href="https://github.com/shakiliitju/Jahangirnagar-University-Islami-Library-JUIL" target="_blank"><b>Jahangirnagar University Islami Library-JUIL</b></a></td>
-                <td>PHP, HTML, CSS, JavaScript</td>
+                <td align=center>PHP, HTML, CSS, JavaScript</td>
                 <td><img alt=Stars
                         src="https://img.shields.io/github/stars/shakiliitju/Jahangirnagar-University-Islami-Library-JUIL?style=flat-square&labelColor=343b41">
                 </td>
@@ -109,9 +109,9 @@
                 </td> 
             </tr>
             <tr>
-                <td>2</td>
+                <td align=center>2</td>
                 <td><a href="https://github.com/shakiliitju/JU-Medical-Management-System" target="_blank"><b>JU Medical Management System</b></a></td>
-                <td>PHP, HTML, CSS, JavaScript</td>
+                <td align=center>PHP, HTML, CSS, JavaScript</td>
                 <td><img alt=Stars
                         src="https://img.shields.io/github/stars/shakiliitju/JU-Medical-Management-System?style=flat-square&labelColor=343b41">
                 </td>
@@ -126,9 +126,9 @@
                 </td> 
             </tr>
             <tr>
-                <td>3</td>
+                <td align=center>3</td>
                 <td><a href="https://github.com/shakiliitju/Process-Scheduling-Simulator" target="_blank"><b>Process Scheduling Simulator</b></a></td>
-                <td>HTML, CSS, JavaScript</td>
+                <td align=center>HTML, CSS, JavaScript</td>
                 <td><img alt=Stars
                         src="https://img.shields.io/github/stars/shakiliitju/Process-Scheduling-Simulator?style=flat-square&labelColor=343b41">
                 </td>
@@ -143,9 +143,9 @@
                 </td> 
             </tr>
             <tr>
-                <td>4</td>
+                <td align=center>4</td>
                 <td><a href="https://github.com/shakiliitju/Student-Management-System-Using-Nodejs" target="_blank"><b>Student Management System Using Node JS</b></a></td>
-                <td>Node Js, HTML, CSS, JavaScript</td>
+                <td align=center>Node Js, HTML, CSS, JavaScript</td>
                 <td><img alt=Stars
                         src="https://img.shields.io/github/stars/shakiliitju/Student-Management-System-Using-Nodejs?style=flat-square&labelColor=343b41">
                 </td>
