@@ -4,6 +4,13 @@
  </head>
   <body>
     
+![welcome](welcome.svg)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋+My+name+is+Carlos+Manuel;Computer+Science+Student&size=35&height=70&width=800&font=Roboto)](https://git.io/typing-svg)
+
+<hr />
+	  
 <!-- Start My Basic Information -->
 <section>
    <h1 align="center">Assalamu-Alaikum</h1>	
