@@ -7,8 +7,11 @@
 
 <img width=100% src="welcome.svg" color="00bfbf">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋+My+name+is+Carlos+Manuel;Computer+Science+Student&size=35&height=70&width=800&font=Roboto)](https://git.io/typing-svg)
-
+<div align="center">
+	
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Assalamu+Alaikum.+My+name+is+Md.+Shakil+Hossain.;Computer+Science+Student&size=35&height=70&width=800&font=Roboto)](https://git.io/typing-svg)
+		  
+</div>
 
 	  
 <!-- Start My Basic Information -->
