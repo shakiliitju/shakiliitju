@@ -6,15 +6,17 @@
     
 <!-- Start My Basic Information -->
 <section>
-   <h1 align="center">Assalamu-Alaikum</h1>
+   <h1 align="center">Assalamu-Alaikum</h1>	
    <div align="center">
   <img src="https://github.com/freekmurze/freekmurze/blob/master/dino.gif">
   </div>
    <h2 align="center">I am Md. Shakil Hossain✨</h2>
    <p>🎓 I am Currently a 3rd year Student at <a href="https://www.juniv.edu/institute/iit" target="_blank">Institute of Information Technology</a>  in <a href="https://www.juniv.edu/" target="_blank">Jahangirnagar University.</a>
    </p>
-   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 
+<!-- <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="1000" height="3">
+<br> -->
 
 </section>
 <!-- End My Basic Information -->
@@ -28,10 +30,16 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{shakiliitju}/count.svg" /></p> 
 <br>
 </div>
+
+<div align="center">
+<p align="center">counting of visitors to this page in this section started from Jan 15, 2023</p>
+<a href="https://info.flagcounter.com/CHgw"><img src="https://s11.flagcounter.com/count2/CHgw/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="10"></a>
+</div>	  
+	  
 <!-- <p align="center">
 <img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" />
 </p> -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 <!-- End Visitor Count -->
 
 
@@ -45,7 +53,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shakiliitju&theme=radical&margin-w=40&margin-h=40)](https://github.com/Cyebukayire)
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 <!-- END My Github Profile Trophy SECTION -->
 
 
@@ -58,30 +66,105 @@
 |My github statistics|Most used languages|Streaks|
 |-|-|-|
 |[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=shakiliitju&show_icons=true&theme=dark&hide_title=true)](https://github.com/Cyebukayire)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakiliitju&show_icons=true&theme=dark&hide_title=true)](https://github.com/Cyebukayire)|![shakiliitju](https://github-readme-streak-stats.herokuapp.com/?user=shakiliitju&theme=dark)
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 
 <!-- &layout=compact -->
 
  
  
  
- <!-- START NEW SECTION 
+<!--  START Project SECTION  -->
 <p align="center">
  <h2 align="center">Project</h2>
 
-| Index | Project | Tech Used |
-|:------:|:-----------------:|:------:|
-|   1  |[Multiplication Game for Elementary-aged kids](https://github.com/codinglayla/java-projects/tree/main/Multiplication%20game%20for%20Elementary-aged%20students)| Java |
-|   2  |[Employee Calculator](https://github.com/codinglayla/java-projects/tree/main/Employee%20calculator%20v.2%20(with%20input))| Java|
-|   3  |[Freecodecamp Python Projects](https://github.com/codinglayla/python-freecodecamp-challenges)| Python |
-|   4  |[HTML/CSS small projects](https://github.com/codinglayla/html-css-projects)| HTML, CSS |
-|   5  |[Java small projects](https://github.com/codinglayla/java-projects)| Java |
 
-<br>
- <hr>
- End Project -->
- 
+<table>
+        <thead align=center>
+            <tr border: none;>
+                <td><b>📜 Index</b></td>
+                <td><b>🎁 Projects</b></td>
+                <td><b>🪛Technology Used</b></td>
+                <td><b>⭐ Stars</b></td>
+                <td><b>📚 Forks</b></td>
+<!--                 <td><b>🛎 Issues</b></td> -->
+                <td><b>📬 Pull requests</b></td> 
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td align=center>1</td>
+                <td><a href="https://github.com/shakiliitju/Jahangirnagar-University-Islami-Library-JUIL" target="_blank"><b>Jahangirnagar University Islami Library-JUIL</b></a></td>
+                <td align=center>PHP, HTML, CSS, JavaScript</td>
+                <td><img alt=Stars
+                        src="https://img.shields.io/github/stars/shakiliitju/Jahangirnagar-University-Islami-Library-JUIL?style=flat-square&labelColor=343b41">
+                </td>
+                <td><img alt=Forks
+                        src="https://img.shields.io/github/forks/shakiliitju/Jahangirnagar-University-Islami-Library-JUIL?style=flat-square&labelColor=343b41">
+                </td>
+<!--                 <td><a href=https://github.com/shakiliitju/Jahangirnagar-University-Islami-Library-JUIL/issues target=_blank><img alt=Issues
+                            src="https://img.shields.io/github/issues/shakiliitju/Jahangirnagar-University-Islami-Library-JUIL?style=flat-square&labelColor=343b41"></a>
+                </td> -->
+                <td><a href=https://github.com/shakiliitju/Jahangirnagar-University-Islami-Library-JUIL/pulls target=_blank><img alt="Pull Requests"
+                            src="https://img.shields.io/github/issues-pr/shakiliitju/Jahangirnagar-University-Islami-Library-JUIL?style=flat-square&labelColor=343b41"></a>
+                </td> 
+            </tr>
+            <tr>
+                <td align=center>2</td>
+                <td><a href="https://github.com/shakiliitju/JU-Medical-Management-System" target="_blank"><b>JU Medical Management System</b></a></td>
+                <td align=center>PHP, HTML, CSS, JavaScript</td>
+                <td><img alt=Stars
+                        src="https://img.shields.io/github/stars/shakiliitju/JU-Medical-Management-System?style=flat-square&labelColor=343b41">
+                </td>
+                <td><img alt=Forks
+                        src="https://img.shields.io/github/forks/shakiliitju/JU-Medical-Management-System?style=flat-square&labelColor=343b41">
+                </td>
+<!--                 <td><a href=https://github.com/mx-space/core/issues target=_blank><img alt=Issues
+                            src="https://img.shields.io/github/issues/shakiliitju/JU-Medical-Management-System?style=flat-square&labelColor=343b41"></a>
+                </td>   -->
+                <td><a href=https://github.com/mx-space/core/pulls target=_blank><img alt="Pull Requests"
+                            src="https://img.shields.io/github/issues-pr/shakiliitju/JU-Medical-Management-System?style=flat-square&labelColor=343b41"></a>
+                </td> 
+            </tr>
+            <tr>
+                <td align=center>3</td>
+                <td><a href="https://github.com/shakiliitju/Process-Scheduling-Simulator" target="_blank"><b>Process Scheduling Simulator</b></a></td>
+                <td align=center>HTML, CSS, JavaScript</td>
+                <td><img alt=Stars
+                        src="https://img.shields.io/github/stars/shakiliitju/Process-Scheduling-Simulator?style=flat-square&labelColor=343b41">
+                </td>
+                <td><img alt=Forks
+                        src="https://img.shields.io/github/forks/shakiliitju/Process-Scheduling-Simulator?style=flat-square&labelColor=343b41">
+                </td>
+<!--                 <td><a href=https://github.com/shakiliitju/Process-Scheduling-Simulator/issues target=_blank><img alt=Issues
+                            src="https://img.shields.io/github/issues/shakiliitju/Process-Scheduling-Simulator?style=flat-square&labelColor=343b41"></a>
+                </td>   -->
+                <td><a href=https://github.com/shakiliitju/Process-Scheduling-Simulator/pulls target=_blank><img alt="Pull Requests"
+                            src="https://img.shields.io/github/issues-pr/shakiliitju/Process-Scheduling-Simulator?style=flat-square&labelColor=343b41"></a>
+                </td> 
+            </tr>
+            <tr>
+                <td align=center>4</td>
+                <td><a href="https://github.com/shakiliitju/Student-Management-System-Using-Nodejs" target="_blank"><b>Student Management System Using Node JS</b></a></td>
+                <td align=center>Node Js, HTML, CSS, JavaScript</td>
+                <td><img alt=Stars
+                        src="https://img.shields.io/github/stars/shakiliitju/Student-Management-System-Using-Nodejs?style=flat-square&labelColor=343b41">
+                </td>
+                <td><img alt=Forks
+                        src="https://img.shields.io/github/forks/shakiliitju/Student-Management-System-Using-Nodejs?style=flat-square&labelColor=343b41">
+                </td>
+<!--                 <td><a href=https://github.com/shakiliitju/Student-Management-System-Using-Nodejs/issues target=_blank><img alt=Issues
+                            src="https://img.shields.io/github/issues/shakiliitju/Student-Management-System-Using-Nodejs?style=flat-square&labelColor=343b41"></a>
+                </td>   -->
+                <td><a href=https://github.com/shakiliitju/Student-Management-System-Using-Nodejs/pulls target=_blank><img alt="Pull Requests"
+                            src="https://img.shields.io/github/issues-pr/shakiliitju/Student-Management-System-Using-Nodejs?style=flat-square&labelColor=343b41"></a>
+                </td> 
+            </tr>
+        </tbody>
+    </table>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
+
+<!--  START Project SECTION  -->
 
 	
 <!-- START Learning Tecnologias SECTION -->	
@@ -104,7 +187,7 @@
 | ![aws](./img/technologies/aws.png)                             | AWS               | ![50%](https://progress-bar.dev/60/) | ![git](./img/technologies/git.png)                         | Git             | ![80%](https://progress-bar.dev/80/) |
 | ![github](./img/technologies/github.png)                       | GitHub            | ![80%](https://progress-bar.dev/80/) |
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 	
 <!-- END Learning Tecnologias SECTION -->
 
@@ -218,7 +301,198 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
  <br>
- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+
+
+
+<table align="center">
+
+  <tr>
+     <td align="center" width="96">
+      <a href="#nuxtjs">
+        <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
+      </a>
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+      <a href="#laravel">
+        <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="48" height="48" alt="Laravel" />
+      </a>
+      <br>Laravel
+    </td>
+    <td align="center" width="96">
+      <a href="#vuejs">
+        <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="48" height="48" alt="Vuejs" />
+      </a>
+      <br>Vue JS
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
+      <br>GraphQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
+      <br>Rest
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" />
+      <br>Kubernetes
+    </td>
+</tr>
+
+<tr>
+    <td align="center" width="96">
+      <a href="#git" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
+      <br>Github
+    </td>
+    <td align="center"  width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" width="48" height="48" alt="GitLab" />
+      <br>GitLab
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="redis" />
+      <br>redis
+    </td>
+</tr>
+<tr>
+     <td align="center" width="96">
+      <a href="#suhailkakar-tech">
+        <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" width="48" height="48" alt="Nuxtjs" />
+      </a>
+      <br>Nuxt JS
+    </td>
+    <td align="center" width="96">
+      <a href="#ts">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+        <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+     <td align="center" width="96">
+      <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+      <br>Express
+    </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
+      <br>MySQL
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
+      <br>JQuery
+    </td>
+    <td align="center" width="96">
+      <a href="#laravel">
+        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="Laravel" />
+      </a>
+      <br>MySQL
+    </td>
+     <td align="center" width="96">
+        <a href="#livewire">
+            <img src="https://i0.wp.com/laravel-livewire.com/img/twitter.png" width="48" height="48"
+                alt="livewire" />
+        </a>
+        <br>Livewire
+    </td>
+    <td align="center" width="96">
+        <a href="#alpinejs">
+            <img src="https://seeklogo.com/images/A/alpine-js-logo-21F4169EAB-seeklogo.com.png" width="48"
+                height="48" alt="alpinejs" />
+        </a>
+        <br>Alpine JS
+    </td>
+ </tr>
+<tr>
+     <td align="center" width="96">
+      <a href="#ubuntu" >
+        <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="48" height="48" alt="ubuntu" />
+      </a>
+      <br>Ubuntu
+    </td>
+     <td align="center" width="96">
+      <a href="#digitalocean">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/DigitalOcean_logo.svg" width="48" height="48" alt="Digital Ocean" />
+      </a>
+      <br>Digital Ocean
+    </td>
+      <td align="center"  width="96">
+      <a href="#vscode">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Jamstack" />
+      </a>
+      <br>VS Code
+    </td>
+     <td align="center"  width="96">
+      <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+      <br>React js
+    </td>
+      <td align="center" width="96">
+      <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+      <br>Postgress
+    </td>
+      <td align="center" width="96">
+      <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> 
+      <br>webpack
+    </td>
+      <td align="center" width="96">
+  <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
+        </a> 
+      <br>Heroku
+    </td>
+         <td align="center"  width="96">
+     <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+      <br>Node js
+    </td>
+    <td align="center" width="96">
+  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+      <br>Mongo
+    </td>
+  </tr>
+
+</table>
+
+ <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
+
 
 <!-- End My favorite tools -->
  
@@ -233,10 +507,15 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shakiliitju&theme=monokai" align="center" />
 </p>
 	
+
+<p align="center">
+<img alt="Md. Shakil Hossain's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=shakiliitju&theme=github-compact" align="center"/>
+</p>
+	
 <!-- <p>
 <img alt="Md. Shakil Hossain's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shakiliitju&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </p> -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 <!-- END Contribution Graph SECTION -->
 
 
@@ -294,4 +573,9 @@
 
 
 </body>
+
+<footer>
+	  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+
+</footer>
 </html>
