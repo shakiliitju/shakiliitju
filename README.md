@@ -9,18 +9,18 @@
 
 <div align="center">
 	
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Assalamu+Alaikum.+My+name+is+Md.+Shakil+Hossain.;Computer+Science+Student&size=35&height=70&width=800&font=Roboto)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Assalamu+Alaikum.+My+name+is+Md.+Shakil+Hossain.&size=35&height=70&width=800&font=Roboto)](https://git.io/typing-svg)
 		  
 </div>
 
 	  
 <!-- Start My Basic Information -->
 <section>
-   <h1 align="center">Assalamu-Alaikum</h1>	
+<!--    <h1 align="center">Assalamu-Alaikum</h1>	
    <div align="center">
   <img src="https://github.com/freekmurze/freekmurze/blob/master/dino.gif">
   </div>
-   <h2 align="center">I am Md. Shakil Hossain✨</h2>
+   <h2 align="center">I am Md. Shakil Hossain✨</h2> -->
    <p>🎓 I am Currently a 3rd year Student at <a href="https://www.juniv.edu/institute/iit" target="_blank">Institute of Information Technology</a>  in <a href="https://www.juniv.edu/" target="_blank">Jahangirnagar University.</a>
    </p>
    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
