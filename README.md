@@ -169,6 +169,23 @@
                             src="https://img.shields.io/github/issues-pr/shakiliitju/Student-Management-System-Using-Nodejs?style=flat-square&labelColor=343b41"></a>
                 </td> 
             </tr>
+		 <tr>
+                <td align=center>5</td>
+                <td><a href="https://github.com/shakiliitju/Dormitory-Management-System" target="_blank"><b>Dormitory Management System</b></a></td>
+                <td align=center>PHP, HTML, CSS, JavaScript</td>
+                <td><img alt=Stars
+                        src="https://img.shields.io/github/stars/shakiliitju/Dormitory-Management-System?style=flat-square&labelColor=343b41">
+                </td>
+                <td><img alt=Forks
+                        src="https://img.shields.io/github/forks/shakiliitju/Dormitory-Management-System?style=flat-square&labelColor=343b41">
+                </td>
+<!--                 <td><a href=https://github.com/mx-space/core/issues target=_blank><img alt=Issues
+                            src="https://img.shields.io/github/issues/shakiliitju/Dormitory-Management-System?style=flat-square&labelColor=343b41"></a>
+                </td>   -->
+                <td><a href=https://github.com/mx-space/core/pulls target=_blank><img alt="Pull Requests"
+                            src="https://img.shields.io/github/issues-pr/shakiliitju/Dormitory-Management-System?style=flat-square&labelColor=343b41"></a>
+                </td> 
+            </tr>
         </tbody>
     </table>
 
