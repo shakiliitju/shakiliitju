@@ -193,7 +193,26 @@
 
 <!--  START Project SECTION  -->
 
-	
+
+
+
+
+  <div>
+        <h2>I worked on last week  
+            <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=30> 
+        </h2>
+         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=shakiliitju&range=last_7_days&theme=highcontrast&hide_border=false&layout=" alt="Wakatime Stats" width="480" />
+          </br>
+        <a href="https://wakatime.com/@b10ddb7f-1a29-4243-9642-69972f83f35f">
+             <img src="https://wakatime.com/badge/user/b10ddb7f-1a29-4243-9642-69972f83f35f.svg" alt="Total time coded since Jan 19 2022" />
+        </a>
+    </div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
+
+<!--  START Project SECTION  -->
+
+    
+ 
 <!-- START Learning Tecnologias SECTION -->	
 <p align="center">
  <h2 align="center">Learning Tecnologias</h2>
