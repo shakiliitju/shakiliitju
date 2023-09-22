@@ -191,25 +191,43 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 
-<!--  START Project SECTION  -->
+<!--  End Project SECTION  -->
 
 
+<!--  START Kaggle Tier & Medals SECTION  -->
+<p align="center">
+  <p align="center">🥇My Kaggle Tier & Medals 🥇</p>
+ 
+</p>
+<p align="center">
+<!--   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/shakiliitju/competition/"; /> -->
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/shakiliitju/dataset/"; />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/shakiliitju/notebook/"; />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/shakiliitju/discussion/"; />
+</p>
 
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmdriponmiah%2Fkaggle-badge&count_bg=%23DDAA17&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+![mdriponmiah](https://road-to-kaggle-grandmaster.vercel.app/api/simple/mdriponmiah) 
 
-
-  <div>
-        <h2>I worked on last week  
-            <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=30> 
-        </h2>
-         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=shakiliitju&range=last_7_days&theme=highcontrast&hide_border=false&layout=" alt="Wakatime Stats" width="480" />
-          </br>
-        <a href="https://wakatime.com/@b10ddb7f-1a29-4243-9642-69972f83f35f">
-             <img src="https://wakatime.com/badge/user/b10ddb7f-1a29-4243-9642-69972f83f35f.svg" alt="Total time coded since Jan 19 2022" />
-        </a>
-    </div>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 
-<!--  START Project SECTION  -->
+<!--  END Kaggle Tier & Medals SECTION  -->
+
+
+<!--  START worked SECTION  -->
+
+<p align="center">
+        <h2 align="center">I worked on last week  
+<!--             <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=30>  -->
+        </h2>
+         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=shakiliitju&range=last_7_days&theme=highcontrast&hide_border=false&layout=" alt="Wakatime Stats" width="480" />
+        <a href="https://wakatime.com/@b10ddb7f-1a29-4243-9642-69972f83f35f">
+             <img src="https://wakatime.com/badge/user/b10ddb7f-1a29-4243-9642-69972f83f35f.svg" alt="Total time coded since April 19 2023" />
+        </a>
+</p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
+
+<!--  END worked SECTION  -->
 
     
  
