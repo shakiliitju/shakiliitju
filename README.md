@@ -206,9 +206,6 @@
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/shakiliitju/discussion/"; />
 </p>
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmdriponmiah%2Fkaggle-badge&count_bg=%23DDAA17&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
-![mdriponmiah](https://road-to-kaggle-grandmaster.vercel.app/api/simple/mdriponmiah) 
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 
 <!--  END Kaggle Tier & Medals SECTION  -->
