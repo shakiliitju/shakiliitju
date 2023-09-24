@@ -21,7 +21,8 @@
   <img src="https://github.com/freekmurze/freekmurze/blob/master/dino.gif">
   </div>
    <h2 align="center">I am Md. Shakil Hossain✨</h2> -->
-   <p>🎓 I am Currently a Final year Student at <a href="https://www.juniv.edu/institute/iit" target="_blank">Institute of Information Technology</a>  in <a href="https://www.juniv.edu/" target="_blank">Jahangirnagar University.</a> I really like to play with my skills & creativity. Feel free to contact me if you have any questions.
+   <p>I am Md. Shakil Hossain from Bangladesh.🎓 I am Currently a Final year Student at <a href="https://www.juniv.edu/institute/iit" target="_blank">Institute of Information Technology</a>  in <a href="https://www.juniv.edu/" target="_blank">Jahangirnagar University.</a> <br>My childhood was spent in a village in Ullapara of Sirajganj district. Started studying in the primary school of my village. Completed Junior School Certificate and Secondary School Certificate Examination from Koira High School and College. Then come to Dhaka city with a chest of hope. Obtained Higher Secondary School Certificate from Jahangirnagar University School and College. My father is a farmer and mother is a housewife. I am the youngest among three children in the family. Buying books is my hobby. Established a family library called "In Search of Truth" with the collected books. I love to read and teach others.<br>
+I really like to play with my skills and creativity. Feel free to contact me if you have any questions.
    </p>
    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 
