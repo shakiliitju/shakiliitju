@@ -11,39 +11,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Assalamu+Alaikum.+My+name+is+Md.+Shakil+Hossain.&size=35&height=70&width=800&font=Roboto)](https://git.io/typing-svg)
 		  
 </div>
-
-<div align="center">
-	
-### You can leave me some emojis! ⬇️
-<table>
-<tr align="center">
-  <td><a href="https://jackyef-addmoji.vercel.app/api/addmoji?type=👋">👋</a></td>
-  <td><a href="https://jackyef-addmoji.vercel.app/api/addmoji?type=👍">👍</a></td>
-  <td><a href="https://jackyef-addmoji.vercel.app/api/addmoji?type=👊">👊</a></td>
-  <td><a href="https://jackyef-addmoji.vercel.app/api/addmoji?type=❤️">❤️</a></td>
-  <td><a href="https://jackyef-addmoji.vercel.app/api/addmoji?type=😂">😂</a></td>
-  <td><a href="https://jackyef-addmoji.vercel.app/api/addmoji?type=🤓">🤓</a></td>
-  <td><a href="https://jackyef-addmoji.vercel.app/api/addmoji?type=😎">😎</a></td>
-  <td><a href="https://jackyef-addmoji.vercel.app/api/addmoji?type=😛">😛</a></td>
-  <td><a href="https://jackyef-addmoji.vercel.app/api/addmoji?type=🙃">🙃</a></td>
-  <td><a href="https://jackyef-addmoji.vercel.app/api/addmoji?type=😉">😉</a></td>
-</tr>
-<tr align="center">
-  <td><a href="https://jackyef-addmoji.vercel.app/api/addmoji?type=👋"><span id="count-👋">538</span></a></td>
-  <td><a href="https://jackyef-addmoji.vercel.app/api/addmoji?type=👍"><span id="count-👍">289</span></a></td>
-  <td><a href="https://jackyef-addmoji.vercel.app/api/addmoji?type=👊"><span id="count-👊">260</span></a></td>
-  <td><a href="https://jackyef-addmoji.vercel.app/api/addmoji?type=❤️"><span id="count-❤️">267</span></a></td>
-  <td><a href="https://jackyef-addmoji.vercel.app/api/addmoji?type=😂"><span id="count-😂">252</span></a></td>
-  <td><a href="https://jackyef-addmoji.vercel.app/api/addmoji?type=🤓"><span id="count-🤓">212</span></a></td>
-  <td><a href="https://jackyef-addmoji.vercel.app/api/addmoji?type=😎"><span id="count-😎">290</span></a></td>
-  <td><a href="https://jackyef-addmoji.vercel.app/api/addmoji?type=😛"><span id="count-😛">207</span></a></td>
-  <td><a href="https://jackyef-addmoji.vercel.app/api/addmoji?type=🙃"><span id="count-🙃">202</span></a></td>
-  <td><a href="https://jackyef-addmoji.vercel.app/api/addmoji?type=😉"><span id="count-😉">211</span></a></td>
-</tr>
-</table>
-</div>
-<br>
-<br>
 	  
 <!-- Start My Basic Information -->
 <section>
