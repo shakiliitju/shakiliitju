@@ -14,6 +14,10 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
 
 <!-- Start My Basic Information -->
+<div align="center">
+<h2 align="centre">About Me</h2>
+</div>
+
 <section>
 <p align="justify">
 	Md. Shakil Hossain received his Bachelor's degree in Information and Communication Technology, from the <a href="https://web.iitju.edu.bd/" target="_blank">Institute of Information Technology</a>, <a href="https://www.juniv.edu/" target="_blank">Jahangirnagar University.</a>, Savar, Dhaka, Bangladesh, in (Session: 2018-2019, Passed: 2022). <br> <br>
