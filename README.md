@@ -31,19 +31,10 @@ His childhood was spent in a village in Ullapara of Sirajganj district. He start
 <!-- START Visitor Count -->
 <div align="center">
 <h2 align="centre">Visitors Count</h2>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{shakiliitju}/count.svg" /></p> 
-<br>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{shakiliitju}/count.svg" /></p>
 </div>
-
-<div align="center">
-<p align="center">counting of visitors to this page in this section started from Jan 15, 2023</p>
-<a href="https://info.flagcounter.com/CHgw"><img src="https://s11.flagcounter.com/count2/CHgw/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="10"></a>
-</div>	  
-	  
-<!-- <p align="center">
-<img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" />
-</p> -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
+  
 <!-- End Visitor Count -->
 
 
@@ -51,13 +42,14 @@ His childhood was spent in a village in Ullapara of Sirajganj district. He start
     
 <!-- START My Github Profile Trophy SECTION -->
 <p align="center">
-  <img width="100" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
-  <h2 align="center">My Github Profile Trophy</h2>
+<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px">
+<h2 align="center">My Github Profile Trophy</h2>
 </p>
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shakiliitju&theme=radical&margin-w=40&margin-h=40)](https://github.com/Cyebukayire)
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
 <!-- END My Github Profile Trophy SECTION -->
 
 
