@@ -55,16 +55,16 @@ His childhood was spent in a village in Ullapara of Sirajganj district. He start
 
 
 
-<!-- START NEW SECTION -->
+<!-- START Github Stats -->
 <p align="center">
  <h2 align="center">My Github Stats</h2>
 
 |My github statistics|Most used languages|Streaks|
 |-|-|-|
 |[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=shakiliitju&show_icons=true&theme=dark&hide_title=true)](https://github.com/Cyebukayire)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakiliitju&show_icons=true&theme=dark&hide_title=true)](https://github.com/Cyebukayire)|![shakiliitju](https://github-readme-streak-stats.herokuapp.com/?user=shakiliitju&theme=dark)
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 
-<!-- &layout=compact -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
+<!-- End Github Stats -->
 
  
  
@@ -175,68 +175,8 @@ His childhood was spent in a village in Ullapara of Sirajganj district. He start
         </tbody>
     </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
 <!--  End Project SECTION  -->
-
-
-<!--  START Kaggle Tier & Medals SECTION  -->
-<p align="center">
-  <p align="center">🥇My Kaggle Tier & Medals 🥇</p>
- 
-</p>
-<p align="center">
-<!--   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/shakiliitju/competition/"; /> -->
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/shakiliitju/dataset/"; />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/shakiliitju/notebook/"; />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/shakiliitju/discussion/"; />
-</p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
-
-<!--  END Kaggle Tier & Medals SECTION  -->
-
-
-<!--  START worked SECTION  -->
-
-<p align="center">
-        <h2 align="center">I worked on last week  
-<!--             <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=30>  -->
-        </h2>
-         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=shakiliitju&range=last_7_days&theme=highcontrast&hide_border=false&layout=" alt="Wakatime Stats" width="480" />
-        <a href="https://wakatime.com/@b10ddb7f-1a29-4243-9642-69972f83f35f">
-             <img src="https://wakatime.com/badge/user/b10ddb7f-1a29-4243-9642-69972f83f35f.svg" alt="Total time coded since April 19 2023" />
-        </a>
-</p>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
-
-<!--  END worked SECTION  -->
-
-    
- 
-<!-- START Learning Tecnologias SECTION -->	
-<p align="center">
- <h2 align="center">Learning Tecnologias</h2>
-
-
-|                                                          |                   |                                      |                                                      |                 |                                      |
-| -------------------------------------------------------- | ----------------- | ------------------------------------ | ---------------------------------------------------- | --------------- | ------------------------------------ |
-| ![typescript](./img/technologies/typescript.png)               | TypeScript        | ![80%](https://progress-bar.dev/80/) | ![node](./img/technologies/node.png)                       | Node            | ![80%](https://progress-bar.dev/80/) |
-| ![express](./img/technologies/express.png)                     | Express           | ![80%](https://progress-bar.dev/80/) | ![nest](./img/technologies/nest.png)                       | Nest            | ![80%](https://progress-bar.dev/80/) |
-| ![graphql](./img/technologies/graphql.png)                     | GraphQL           | ![80%](https://progress-bar.dev/80/) | ![typeorm](./img/technologies/typeorm.png)                 | TypeORM         | ![80%](https://progress-bar.dev/80/) |
-| ![prisma](./img/technologies/prisma.png)                       | Prisma            | ![80%](https://progress-bar.dev/80/) | ![sequelize](./img/technologies/sequelize.png)             | Sequelize       | ![80%](https://progress-bar.dev/80/) |
-| ![mongoose](./img/technologies/mongoose.png)                   | Mongoose          | ![40%](https://progress-bar.dev/40/) | ![postgresql](./img/technologies/postgresql.png)           | PostgreSQL      | ![80%](https://progress-bar.dev/80/) |
-| ![mongodb](./img/technologies/mongodb.png)                     | MongoDB           | ![40%](https://progress-bar.dev/40/) | ![jest](./img/technologies/jest.png)                       | Jest            | ![80%](https://progress-bar.dev/80/) |
-| ![mocha](./img/technologies/mocha.png)                         | Mocha             | ![80%](https://progress-bar.dev/80/) | ![docker](./img/technologies/docker.png)                   | Docker          | ![60%](https://progress-bar.dev/60/) |
-| ![react](./img/technologies/react.png)                         | React             | ![80%](https://progress-bar.dev/80/) | ![next](./img/technologies/next.png)                       | Next            | ![40%](https://progress-bar.dev/40/) |
-| ![redux](./img/technologies/redux.png)                         | Redux             | ![80%](https://progress-bar.dev/80/) | ![css-modules](./img/technologies/css-modules.png)         | CSS Modules     | ![80%](https://progress-bar.dev/80/) |
-| ![styled-components](./img/technologies/styled-components.png) | Styled Components | ![80%](https://progress-bar.dev/80/) | ![material-ui](./img/technologies/material-ui.png)         | Material UI     | ![80%](https://progress-bar.dev/80/) |
-| ![aws](./img/technologies/aws.png)                             | AWS               | ![50%](https://progress-bar.dev/60/) | ![git](./img/technologies/git.png)                         | Git             | ![80%](https://progress-bar.dev/80/) |
-| ![github](./img/technologies/github.png)                       | GitHub            | ![80%](https://progress-bar.dev/80/) |
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
-	
-<!-- END Learning Tecnologias SECTION -->
 
 	
 	
@@ -349,7 +289,17 @@ His childhood was spent in a village in Ullapara of Sirajganj district. He start
 </p>
  <br>
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
 
+<!-- End My favorite tools -->
+
+
+
+
+
+<!-- START Learning Technology -->
+
+<h2 align="center">Learning Technology</h2>
 
 <table align="center">
 
@@ -538,7 +488,7 @@ His childhood was spent in a village in Ullapara of Sirajganj district. He start
 
 </table>
 
- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
 
 
 <!-- End My favorite tools -->
