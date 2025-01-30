@@ -490,8 +490,7 @@ His childhood was spent in a village in Ullapara of Sirajganj district. He start
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
 
-
-<!-- End My favorite tools -->
+<!-- End learning Technology -->
  
  
  
@@ -501,18 +500,15 @@ His childhood was spent in a village in Ullapara of Sirajganj district. He start
  <h2 align="center">Contribution Graph</h2>
 	
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shakiliitju&theme=monokai" align="center" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shakiliitju&theme=gotham" align="center" />
 </p>
 	
-
 <p align="center">
-<img alt="Md. Shakil Hossain's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=shakiliitju&theme=github-compact" align="center"/>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=shakiliitju&theme=gotham&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
 </p>
-	
-<!-- <p>
-<img alt="Md. Shakil Hossain's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shakiliitju&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-</p> -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
+
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
 <!-- END Contribution Graph SECTION -->
 
 
