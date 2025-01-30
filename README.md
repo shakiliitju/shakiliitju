@@ -5,29 +5,22 @@
   <body>
     
 <img width=100% src="welcome.svg" color="00bfbf">
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
 <div align="center">
 	
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Assalamu+Alaikum.+My+name+is+Md.+Shakil+Hossain.&size=35&height=70&width=800&font=Roboto)](https://git.io/typing-svg)
 		  
 </div>
-	  
+<img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
+
 <!-- Start My Basic Information -->
 <section>
-<!--    <h1 align="center">Assalamu-Alaikum</h1>	
-   <div align="center">
-  <img src="https://github.com/freekmurze/freekmurze/blob/master/dino.gif">
-  </div>
-   <h2 align="center">I am Md. Shakil Hossain✨</h2> -->
-
 <p align="justify">
 	Md. Shakil Hossain received his Bachelor's degree in Information and Communication Technology, from the <a href="https://web.iitju.edu.bd/" target="_blank">Institute of Information Technology</a>, <a href="https://www.juniv.edu/" target="_blank">Jahangirnagar University.</a>, Savar, Dhaka, Bangladesh, in (Session: 2018-2019, Passed: 2022). <br> <br>
 His childhood was spent in a village in Ullapara of Sirajganj district. He started studying in the primary school of his village. Completed Junior School Certificate(JSC) and Secondary School Certificate(SSC) Examination from "Koira High School and College". Then, come to Dhaka city with a chest of hope. Obtained Higher Secondary School Certificate(HSC) from "Jahangirnagar University School and College". His father is a farmer, and his mother is a housewife. He is the youngest among three children in the family. Buying books is his hobby. Established a family library called "In Search of Truth" with the collected books. Now his library number of books is 150+. He loves to read and teach others.
 </p>
-   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
-
-<!-- <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="1000" height="3">
-<br> -->
+   <img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
+<!--    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000"> -->
 
 </section>
 <!-- End My Basic Information -->
