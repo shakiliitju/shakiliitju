@@ -45,7 +45,7 @@ He is respectful to his elders and teachers, kind to his peers, and active in co
 <!-- START Visitor Count -->
 <div align="center">
 <h2 align="centre">Visitors Count</h2>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{shakiliitju}/count.svg" /></p>
+	<p align="center"><img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=shakiliitju.shakiliitju" />
 </div>
  
   
