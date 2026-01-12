@@ -72,11 +72,9 @@ He is respectful to his elders and teachers, kind to his peers, and active in co
 <!-- START Github Stats -->
 <p align="center">
  <h2 align="center">My Github Stats</h2>
-
-|My github statistics|Most used languages|Streaks|
-|-|-|-|
-|[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=shakiliitju&show_icons=true&theme=dark&hide_title=true)](https://github.com/Cyebukayire)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakiliitju&show_icons=true&theme=dark&hide_title=true)](https://github.com/Cyebukayire)|![shakiliitju](https://github-readme-streak-stats.herokuapp.com/?user=shakiliitju&theme=dark)
-
+<div align="center">
+  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=shakiliitju&count_private=true&theme=radical&border_radius=10" alt="streak stats"/>
+</div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
 <!-- End Github Stats -->
 
