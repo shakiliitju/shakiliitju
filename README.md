@@ -47,8 +47,6 @@ He is respectful to his elders and teachers, kind to his peers, and active in co
 <h2 align="centre">Visitors Count</h2>  
 	<p align="center"><img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=shakiliitju.shakiliitju" />
 </div>
- 
-  
 <!-- End Visitor Count -->
 
 
@@ -59,9 +57,6 @@ He is respectful to his elders and teachers, kind to his peers, and active in co
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px">
 <h2 align="center">My Github Profile Trophy</h2>
 </p>
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=shakiliitju&theme=radical&margin-w=40&margin-h=40)](https://github.com/Cyebukayire)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
 <!-- END My Github Profile Trophy SECTION -->
@@ -89,7 +84,6 @@ He is respectful to his elders and teachers, kind to his peers, and active in co
 <p align="center">
  <h2 align="center">Project</h2>
 
-
 <table>
         <thead align=center>
             <tr border: none;>
@@ -98,30 +92,12 @@ He is respectful to his elders and teachers, kind to his peers, and active in co
                 <td><b>🪛Technology Used</b></td>
                 <td><b>⭐ Stars</b></td>
                 <td><b>📚 Forks</b></td>
-<!--                 <td><b>🛎 Issues</b></td> -->
                 <td><b>📬 Pull requests</b></td> 
             </tr>
         </thead>
         <tbody>
             <tr>
                 <td align=center>1</td>
-                <td><a href="https://github.com/shakiliitju/Jahangirnagar-University-Islami-Library-JUIL" target="_blank"><b>Jahangirnagar University Islami Library-JUIL</b></a></td>
-                <td align=center>PHP, HTML, CSS, JavaScript</td>
-                <td><img alt=Stars
-                        src="https://img.shields.io/github/stars/shakiliitju/Jahangirnagar-University-Islami-Library-JUIL?style=flat-square&labelColor=343b41">
-                </td>
-                <td><img alt=Forks
-                        src="https://img.shields.io/github/forks/shakiliitju/Jahangirnagar-University-Islami-Library-JUIL?style=flat-square&labelColor=343b41">
-                </td>
-<!--                 <td><a href=https://github.com/shakiliitju/Jahangirnagar-University-Islami-Library-JUIL/issues target=_blank><img alt=Issues
-                            src="https://img.shields.io/github/issues/shakiliitju/Jahangirnagar-University-Islami-Library-JUIL?style=flat-square&labelColor=343b41"></a>
-                </td> -->
-                <td><a href=https://github.com/shakiliitju/Jahangirnagar-University-Islami-Library-JUIL/pulls target=_blank><img alt="Pull Requests"
-                            src="https://img.shields.io/github/issues-pr/shakiliitju/Jahangirnagar-University-Islami-Library-JUIL?style=flat-square&labelColor=343b41"></a>
-                </td> 
-            </tr>
-            <tr>
-                <td align=center>2</td>
                 <td><a href="https://github.com/shakiliitju/JU-Medical-Management-System" target="_blank"><b>JU Medical Management System</b></a></td>
                 <td align=center>PHP, HTML, CSS, JavaScript</td>
                 <td><img alt=Stars
@@ -138,7 +114,7 @@ He is respectful to his elders and teachers, kind to his peers, and active in co
                 </td> 
             </tr>
             <tr>
-                <td align=center>3</td>
+                <td align=center>2</td>
                 <td><a href="https://github.com/shakiliitju/Process-Scheduling-Simulator" target="_blank"><b>Process Scheduling Simulator</b></a></td>
                 <td align=center>HTML, CSS, JavaScript</td>
                 <td><img alt=Stars
@@ -155,7 +131,7 @@ He is respectful to his elders and teachers, kind to his peers, and active in co
                 </td> 
             </tr>
             <tr>
-                <td align=center>4</td>
+                <td align=center>3</td>
                 <td><a href="https://github.com/shakiliitju/Student-Management-System-Using-Nodejs" target="_blank"><b>Student Management System Using Node JS</b></a></td>
                 <td align=center>Node Js, HTML, CSS, JavaScript</td>
                 <td><img alt=Stars
@@ -172,7 +148,7 @@ He is respectful to his elders and teachers, kind to his peers, and active in co
                 </td> 
             </tr>
 		 <tr>
-                <td align=center>5</td>
+                <td align=center>4</td>
                 <td><a href="https://github.com/shakiliitju/Dormitory-Management-System" target="_blank"><b>Dormitory Management System</b></a></td>
                 <td align=center>PHP, HTML, CSS, JavaScript</td>
                 <td><img alt=Stars
@@ -186,6 +162,20 @@ He is respectful to his elders and teachers, kind to his peers, and active in co
                 </td>   -->
                 <td><a href=https://github.com/mx-space/core/pulls target=_blank><img alt="Pull Requests"
                             src="https://img.shields.io/github/issues-pr/shakiliitju/Dormitory-Management-System?style=flat-square&labelColor=343b41"></a>
+                </td> 
+            </tr>
+			<tr>
+                <td align=center>5</td>
+                <td><a href="https://github.com/shakiliitju/Jahangirnagar-University-Islami-Library-JUIL" target="_blank"><b>Jahangirnagar University Islami Library-JUIL</b></a></td>
+                <td align=center>PHP, HTML, CSS, JavaScript</td>
+                <td><img alt=Stars
+                        src="https://img.shields.io/github/stars/shakiliitju/Jahangirnagar-University-Islami-Library-JUIL?style=flat-square&labelColor=343b41">
+                </td>
+                <td><img alt=Forks
+                        src="https://img.shields.io/github/forks/shakiliitju/Jahangirnagar-University-Islami-Library-JUIL?style=flat-square&labelColor=343b41">
+                </td>
+                <td><a href=https://github.com/shakiliitju/Jahangirnagar-University-Islami-Library-JUIL/pulls target=_blank><img alt="Pull Requests"
+                            src="https://img.shields.io/github/issues-pr/shakiliitju/Jahangirnagar-University-Islami-Library-JUIL?style=flat-square&labelColor=343b41"></a>
                 </td> 
             </tr>
         </tbody>
