@@ -73,7 +73,6 @@ He is respectful to his elders and teachers, kind to his peers, and active in co
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats-steel-theta-71.vercel.app/api?username=shakiliitju&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&hide=issues,contribs,stars&bg_color=00000000&show=prs_merged,prs_merged_percentage">
   <img height="50%" width="auto" src ="https://github-readme-stats-steel-theta-71.vercel.app/api/top-langs/?username=shakiliitju&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6">
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
 <!-- End Github Stats -->
 
@@ -83,7 +82,6 @@ He is respectful to his elders and teachers, kind to his peers, and active in co
 <!--  START Project SECTION  -->
 <p align="center">
  <h2 align="center">Project</h2>
-
 <table>
         <thead align=center>
             <tr border: none;>
@@ -96,39 +94,21 @@ He is respectful to his elders and teachers, kind to his peers, and active in co
             </tr>
         </thead>
         <tbody>
-            <tr>
+			<tr>
                 <td align=center>1</td>
-                <td><a href="https://github.com/shakiliitju/JU-Medical-Management-System" target="_blank"><b>JU Medical Management System</b></a></td>
-                <td align=center>PHP, HTML, CSS, JavaScript</td>
-                <td><img alt=Stars
-                        src="https://img.shields.io/github/stars/shakiliitju/JU-Medical-Management-System?style=flat-square&labelColor=343b41">
-                </td>
-                <td><img alt=Forks
-                        src="https://img.shields.io/github/forks/shakiliitju/JU-Medical-Management-System?style=flat-square&labelColor=343b41">
-                </td>
-<!--                 <td><a href=https://github.com/mx-space/core/issues target=_blank><img alt=Issues
-                            src="https://img.shields.io/github/issues/shakiliitju/JU-Medical-Management-System?style=flat-square&labelColor=343b41"></a>
-                </td>   -->
-                <td><a href=https://github.com/mx-space/core/pulls target=_blank><img alt="Pull Requests"
-                            src="https://img.shields.io/github/issues-pr/shakiliitju/JU-Medical-Management-System?style=flat-square&labelColor=343b41"></a>
-                </td> 
+                <td><a href="https://github.com/shakiliitju/Credit-Card-Fraud-Detection-System" target="_blank"><b>Credit Card Fraud Detection System</b></a></td>
+                <td align=center>LR, SVM, KNN, RF, DT, GB, XGBoost, AdaBoost, ML, Python, HTML, CSS</td>
+                <td><img src="https://img.shields.io/github/stars/shakiliitju/Credit-Card-Fraud-Detection-System?style=flat-square&labelColor=343b41"></td>
+                <td><img src="https://img.shields.io/github/forks/shakiliitju/Credit-Card-Fraud-Detection-System?style=flat-square&labelColor=343b41"></td>
+                <td><img src="https://img.shields.io/github/issues-pr/shakiliitju/Credit-Card-Fraud-Detection-System?style=flat-square&labelColor=343b41"></a></td> 
             </tr>
             <tr>
                 <td align=center>2</td>
-                <td><a href="https://github.com/shakiliitju/Process-Scheduling-Simulator" target="_blank"><b>Process Scheduling Simulator</b></a></td>
-                <td align=center>HTML, CSS, JavaScript</td>
-                <td><img alt=Stars
-                        src="https://img.shields.io/github/stars/shakiliitju/Process-Scheduling-Simulator?style=flat-square&labelColor=343b41">
-                </td>
-                <td><img alt=Forks
-                        src="https://img.shields.io/github/forks/shakiliitju/Process-Scheduling-Simulator?style=flat-square&labelColor=343b41">
-                </td>
-<!--                 <td><a href=https://github.com/shakiliitju/Process-Scheduling-Simulator/issues target=_blank><img alt=Issues
-                            src="https://img.shields.io/github/issues/shakiliitju/Process-Scheduling-Simulator?style=flat-square&labelColor=343b41"></a>
-                </td>   -->
-                <td><a href=https://github.com/shakiliitju/Process-Scheduling-Simulator/pulls target=_blank><img alt="Pull Requests"
-                            src="https://img.shields.io/github/issues-pr/shakiliitju/Process-Scheduling-Simulator?style=flat-square&labelColor=343b41"></a>
-                </td> 
+                <td><a href="https://github.com/shakiliitju/Multiple-Vehicle-Counting" target="_blank"><b>Multiple Vehicle Counting</b></a></td>
+                <td align=center>YOLOv8, YOLOv10, OpenCV, ML, Python</td>
+                <td><img src="https://img.shields.io/github/stars/shakiliitju/Multiple-Vehicle-Counting?style=flat-square&labelColor=343b41"></td>
+                <td><img src="https://img.shields.io/github/forks/shakiliitju/Multiple-Vehicle-Counting?style=flat-square&labelColor=343b41"></td>
+                <td><img src="https://img.shields.io/github/issues-pr/shakiliitju/Multiple-Vehicle-Counting?style=flat-square&labelColor=343b41"></a></td> 
             </tr>
             <tr>
                 <td align=center>3</td>
