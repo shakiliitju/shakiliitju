@@ -100,7 +100,7 @@ He is respectful to his elders and teachers, kind to his peers, and active in co
                 <td align=center>LR, SVM, KNN, RF, DT, GB, XGBoost, AdaBoost, ML, Python, HTML, CSS</td>
                 <td><img src="https://img.shields.io/github/stars/shakiliitju/Credit-Card-Fraud-Detection-System?style=flat-square&labelColor=343b41"></td>
                 <td><img src="https://img.shields.io/github/forks/shakiliitju/Credit-Card-Fraud-Detection-System?style=flat-square&labelColor=343b41"></td>
-                <td><img src="https://img.shields.io/github/issues-pr/shakiliitju/Credit-Card-Fraud-Detection-System?style=flat-square&labelColor=343b41"></a></td> 
+                <td><img src="https://img.shields.io/github/issues-pr/shakiliitju/Credit-Card-Fraud-Detection-System?style=flat-square&labelColor=343b41"></td> 
             </tr>
             <tr>
                 <td align=center>2</td>
@@ -108,55 +108,31 @@ He is respectful to his elders and teachers, kind to his peers, and active in co
                 <td align=center>YOLOv8, YOLOv10, OpenCV, ML, Python</td>
                 <td><img src="https://img.shields.io/github/stars/shakiliitju/Multiple-Vehicle-Counting?style=flat-square&labelColor=343b41"></td>
                 <td><img src="https://img.shields.io/github/forks/shakiliitju/Multiple-Vehicle-Counting?style=flat-square&labelColor=343b41"></td>
-                <td><img src="https://img.shields.io/github/issues-pr/shakiliitju/Multiple-Vehicle-Counting?style=flat-square&labelColor=343b41"></a></td> 
+                <td><img src="https://img.shields.io/github/issues-pr/shakiliitju/Multiple-Vehicle-Counting?style=flat-square&labelColor=343b41"></td> 
             </tr>
             <tr>
                 <td align=center>3</td>
                 <td><a href="https://github.com/shakiliitju/Student-Management-System-Using-Nodejs" target="_blank"><b>Student Management System Using Node JS</b></a></td>
-                <td align=center>Node Js, HTML, CSS, JavaScript</td>
-                <td><img alt=Stars
-                        src="https://img.shields.io/github/stars/shakiliitju/Student-Management-System-Using-Nodejs?style=flat-square&labelColor=343b41">
-                </td>
-                <td><img alt=Forks
-                        src="https://img.shields.io/github/forks/shakiliitju/Student-Management-System-Using-Nodejs?style=flat-square&labelColor=343b41">
-                </td>
-<!--                 <td><a href=https://github.com/shakiliitju/Student-Management-System-Using-Nodejs/issues target=_blank><img alt=Issues
-                            src="https://img.shields.io/github/issues/shakiliitju/Student-Management-System-Using-Nodejs?style=flat-square&labelColor=343b41"></a>
-                </td>   -->
-                <td><a href=https://github.com/shakiliitju/Student-Management-System-Using-Nodejs/pulls target=_blank><img alt="Pull Requests"
-                            src="https://img.shields.io/github/issues-pr/shakiliitju/Student-Management-System-Using-Nodejs?style=flat-square&labelColor=343b41"></a>
-                </td> 
+                <td align=center>NodeJS, MySQL, HTML, CSS, JavaScript</td>
+                <td><img src="https://img.shields.io/github/stars/shakiliitju/Student-Management-System-Using-Nodejs?style=flat-square&labelColor=343b41"></td>
+                <td><img src="https://img.shields.io/github/forks/shakiliitju/Student-Management-System-Using-Nodejs?style=flat-square&labelColor=343b41"></td>
+                <td><img src="https://img.shields.io/github/issues-pr/shakiliitju/Student-Management-System-Using-Nodejs?style=flat-square&labelColor=343b41"></td> 
             </tr>
-		 <tr>
+		    <tr>
                 <td align=center>4</td>
                 <td><a href="https://github.com/shakiliitju/Dormitory-Management-System" target="_blank"><b>Dormitory Management System</b></a></td>
-                <td align=center>PHP, HTML, CSS, JavaScript</td>
-                <td><img alt=Stars
-                        src="https://img.shields.io/github/stars/shakiliitju/Dormitory-Management-System?style=flat-square&labelColor=343b41">
-                </td>
-                <td><img alt=Forks
-                        src="https://img.shields.io/github/forks/shakiliitju/Dormitory-Management-System?style=flat-square&labelColor=343b41">
-                </td>
-<!--                 <td><a href=https://github.com/mx-space/core/issues target=_blank><img alt=Issues
-                            src="https://img.shields.io/github/issues/shakiliitju/Dormitory-Management-System?style=flat-square&labelColor=343b41"></a>
-                </td>   -->
-                <td><a href=https://github.com/mx-space/core/pulls target=_blank><img alt="Pull Requests"
-                            src="https://img.shields.io/github/issues-pr/shakiliitju/Dormitory-Management-System?style=flat-square&labelColor=343b41"></a>
-                </td> 
+                <td align=center>PHP, MySQL, HTML, CSS, JavaScript</td>
+                <td><img src="https://img.shields.io/github/stars/shakiliitju/Dormitory-Management-System?style=flat-square&labelColor=343b41"></td>
+                <td><img src="https://img.shields.io/github/forks/shakiliitju/Dormitory-Management-System?style=flat-square&labelColor=343b41"></td>
+                <td><img src="https://img.shields.io/github/issues-pr/shakiliitju/Dormitory-Management-System?style=flat-square&labelColor=343b41"></td> 
             </tr>
 			<tr>
                 <td align=center>5</td>
                 <td><a href="https://github.com/shakiliitju/Jahangirnagar-University-Islami-Library-JUIL" target="_blank"><b>Jahangirnagar University Islami Library-JUIL</b></a></td>
                 <td align=center>PHP, HTML, CSS, JavaScript</td>
-                <td><img alt=Stars
-                        src="https://img.shields.io/github/stars/shakiliitju/Jahangirnagar-University-Islami-Library-JUIL?style=flat-square&labelColor=343b41">
-                </td>
-                <td><img alt=Forks
-                        src="https://img.shields.io/github/forks/shakiliitju/Jahangirnagar-University-Islami-Library-JUIL?style=flat-square&labelColor=343b41">
-                </td>
-                <td><a href=https://github.com/shakiliitju/Jahangirnagar-University-Islami-Library-JUIL/pulls target=_blank><img alt="Pull Requests"
-                            src="https://img.shields.io/github/issues-pr/shakiliitju/Jahangirnagar-University-Islami-Library-JUIL?style=flat-square&labelColor=343b41"></a>
-                </td> 
+                <td><img src="https://img.shields.io/github/stars/shakiliitju/Jahangirnagar-University-Islami-Library-JUIL?style=flat-square&labelColor=343b41"></td>
+                <td><img src="https://img.shields.io/github/forks/shakiliitju/Jahangirnagar-University-Islami-Library-JUIL?style=flat-square&labelColor=343b41"></td>
+                <td><img src="https://img.shields.io/github/issues-pr/shakiliitju/Jahangirnagar-University-Islami-Library-JUIL?style=flat-square&labelColor=343b41"></td> 
             </tr>
         </tbody>
     </table>
