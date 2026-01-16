@@ -57,6 +57,9 @@ He is respectful to his elders and teachers, kind to his peers, and active in co
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px">
 <h2 align="center">My Github Profile Trophy</h2>
 </p>
+<p align="center">
+  <img src="https://github-profile-trophy-git-master.ryo-ma.vercel.app/?username=shakiliitju&theme=gotham&no-frame=true&no-bg=true&margin-w=4" />
+</p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
 <!-- END My Github Profile Trophy SECTION -->
