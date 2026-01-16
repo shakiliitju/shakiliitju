@@ -18,6 +18,26 @@
 <h2 align="centre">About Me</h2>
 </div>
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/fluency/48/000000/marker.png" width="40" alt="Location Icon"/><br/>
+      <strong>Location</strong><br/>
+      Jahangirnagar University <br/>Savar, Dhaka-1342, Bangladesh
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/fluency/48/000000/graduation-cap.png" width="40" alt="Education Icon"/><br/>
+      <strong>Education</strong><br/>
+      BSc (Hons) & MSc (ICT)<br/>Institute of Information Technology<br/>Jahangirnagar University
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/fluency/48/000000/code.png" width="40" alt="Profession Icon"/><br/>
+      <strong>Profession</strong><br/>
+      Student
+    </td>
+  </tr>
+</table>
+
 <section>
 <p align="justify">
 Md. Shakil Hossain received his Bachelor's and Master’s degrees in Information and Communication Technology, from the <a href="https://web.iitju.edu.bd/" target="_blank">Institute of Information Technology</a>, <a href="https://www.juniv.edu/" target="_blank">Jahangirnagar University</a>, Savar, Dhaka, Bangladesh, in 2022 and 2024.
