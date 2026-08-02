@@ -42,7 +42,7 @@
 <p align="justify">
 Md. Shakil Hossain received his Bachelor's and Master’s degrees in Information and Communication Technology, from the <a href="https://web.iitju.edu.bd/" target="_blank">Institute of Information Technology</a>, <a href="https://www.juniv.edu/" target="_blank">Jahangirnagar University</a>, Savar, Dhaka, Bangladesh, in 2022 and 2024.
 
-His father is a farmer, and his mother is a housewife. He is the youngest among three children in the family. Buying books is his hobby. Established a family library called "<a href="https://sites.google.com/view/shakiliitju/my-library" target="_blank">In Search of Truth</a>" with the collected books. Now his library number of books is 160+. He loves to read and teach others.
+His father is a farmer, and his mother is a housewife. He is the youngest among three children in the family. Buying books is his hobby. Established a family library called "<a href="https://sites.google.com/view/shakiliitju/my-library" target="_blank">In Search of Truth</a>" with the collected books. Now his library number of books is 200+. He loves to read and teach others.
 
 His excelled in various courses, such as Advance Machine Learning, Applied Cyber Security, Artificial Intelligence, Claude Computing, Big Data Analytics, Internet of Things, Software Engineering, Computer Networks, Advanced Wireless and Cellular Communications, Telecommunication Systems, and Internet Technology, consistently delivering remarkable performances and displaying a deep passion for research. 
 
@@ -502,19 +502,10 @@ He is respectful to his elders and teachers, kind to his peers, and active in co
 	<a href="https://sites.google.com/view/shakiliitju" target="_blank">
     <img align="left" alt="Md. Shakil Hossain | Website" width="26px" src="https://github.com/shakiliitju/shakiliitju/blob/main/world-wide-web.svg" />
     </a>
-    <a href="https://in.linkedin.com/in/shakiliitju" target="_blank">
-    <img align="left" alt="Md. Shakil Hossain | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
-    </a>
     <a href="https://www.facebook.com/shakiliitju" target="_blank">
     <img align="left" alt="Md. Shakil Hossain | Facebook" width="26px" src="https://github.com/shakiliitju/shakiliitju/blob/main/facebook.svg" />
     </a>
-    <a href="https://twitter.com/shakiliitju" target="_blank">
-     <img align="left" alt="Md. Shakil Hossain | Twitter" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" />
-   </a>
-   <a href="https://www.instagram.com/shakiliitju/" target="_blank">
-     <img align="left" alt="Md. Shakil Hossain | Instagram" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Instagram.svg" />
-   </a>
-   <a href="https://www.youtube.com/channel/UCOs-5vDybRI2YvpUiJrd_9Q" target="_blank">
+   <a href="https://www.youtube.com/channel/shakiliitju" target="_blank">
     <img align="left" alt="Md. Shakil Hossain | Youtube" width="26px" src="https://github.com/shakiliitju/shakiliitju/blob/main/youtube.svg" />
    </a>
    <a href="https://www.behance.net/md_shakil_hossain/" target="_blank">
